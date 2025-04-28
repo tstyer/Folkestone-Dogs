@@ -12,3 +12,13 @@
     background-color: #E5D9F2;
 }
 
+h1, h2, h3 {
+    font-family: 'Delius', sans-serif;
+    align-items: center;
+}
+
+p {
+    font-family: 'Nato Sans', sans-serif;
+}
+
+
