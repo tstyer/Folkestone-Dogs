@@ -21,7 +21,7 @@
   </head>
 
 
-  <body>
+  <body class="d-flex flex-column min-vh-100">
     <nav class="navbar navbar-expand-sm bg-body-tertiary">
       <div class="container">
         <a class="navbar-brand" href="index.html">Folkestone Dogs</a>
@@ -60,22 +60,84 @@
       </div>
     </nav>
 
-    <header class="container" id="hero">
+    <header class="container" id="hero-home">
       <section class="row">
-        <div id="home-title" class="col-12 col-md-6">
-          <h1>Header Copywriting</h1>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            soluta a minus et animi ullam est excepturi rem officia,
-            pariatur,<br />
-            corrupti fugit, inventore veniam voluptatibus sint porro temporibus
-            reiciendis velit!
-          </p>
+        <div id="home-title" class="col-12 text-center">
+          <h1 class="text-center underline">Professional Dog Care</h1>
+          <h2>
+            Speacialised training and 24/7 daycare. Visit our centre to see how we can care for your dogs.
+          </h2>
           <button type="button" class="btn btn-primary">Book a Visit</button>
         </div>
+      </section>
+    </header>
 
-        <div id="carousel" class="col-12 col-md-6">
-          <div id="carouselExampleCaptions" class="carousel slide">
+    <main>
+      <section class="container" id="what-we-do">
+        <div class="row">
+          <div class="col-12">
+            <h2 class="text-center underline">What We Do</h2>
+          </div>
+          <div class="col-12 col-md-6" id="daycare-home">
+            <h3 class="text-center underline">Day Care</h3>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
+              necessitatibus unde delectus ut. Cumque qui, aliquid, facere nobis
+              minus odit aliquam dolore nam corporis cupiditate laborum? Minima
+              labore omnis praesentium!
+            </p>
+          </div>
+          <div class="col-12 col-md-6" id="basic-training-home">
+            <h3 class="text-center underline">Basic Training</h3>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus,
+              repudiandae ea sint velit maiores, modi perspiciatis obcaecati
+              fuga a pariatur impedit corrupti non, libero porro labore!
+              Asperiores adipisci doloribus corporis.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!---"We go the extra mile" Section-->
+      <section class="container" id="extra-mile">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="text-center underline">We Go the Extra Mile</h2>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4" id="insurance">
+                <h3 class="text-center underline">We're Insured</h3>
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
+                  necessitatibus unde delectus ut. Cumque qui, aliquid, facere nobis
+                  minus odit aliquam dolore nam corporis cupiditate laborum? Minima
+                  labore omnis praesentium!</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4" id="certified">
+                <h3 class="text-center underline">We're Certified</h3>
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
+                  necessitatibus unde delectus ut. Cumque qui, aliquid, facere nobis
+                  minus odit aliquam dolore nam corporis cupiditate laborum? Minima
+                  labore omnis praesentium!</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4" id="guarantee">
+                <h3 class="text-center underline">Guaranteed Satisfaction</h3>
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
+                  necessitatibus unde delectus ut. Cumque qui, aliquid, facere nobis
+                  minus odit aliquam dolore nam corporis cupiditate laborum? Minima
+                  labore omnis praesentium!</p>
+            </div>
+        </div>
+      </section>
+
+      <!--2nd CTA Section-->
+      <section class="container" id="pop-in">
+        <div class="row">
+            <div class="col-12 text-center">
+                <button type="button" class="btn btn-primary">Book a Visit</button>
+            </div>
+        </div>
+        <div id="carousel" class="col-12">
+          <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
               <button
                 type="button"
@@ -101,35 +163,29 @@
             <div class="carousel-inner">
               <div class="carousel-item active">
                 <img
-                  src="assets/images/all-types-of-dogs.jpg"
+                  src="assets/images/dogs-in-park.jpg"
                   class="d-block w-100"
-                  alt="We Welcome all types of dogs."
-                />
+                  alt="Blank Image. Dogs playing in park"/>
                 <div class="carousel-caption d-none d-md-block">
-                  <h5>First slide label</h5>
-                  <p>We welcome all types of dogs.</p>
+                  <p>"Good review" - Customer Name</p>
                 </div>
               </div>
               <div class="carousel-item">
                 <img
                   src="assets/images/trainer-with-dogs-1.jpg"
                   class="d-block w-100"
-                  alt="Trainer with dogs."
-                />
+                  alt="Blank Image. Trainer with dogs."/>
                 <div class="carousel-caption d-none d-md-block">
-                  <h5>Second slide label</h5>
-                  <p>We ensure they get the best training.</p>
+                  <p>"Good review" - Customer Name</p>
                 </div>
               </div>
               <div class="carousel-item">
                 <img
                   src="assets/images/dogs-in-park.jpg"
                   class="d-block w-100"
-                  alt="Dogs playing in park."
-                />
+                  alt="Blank Image. Dogs playing in park.">
                 <div class="carousel-caption d-none d-md-block">
-                  <h5>Third slide label</h5>
-                  <p>And we also ensure they have the time of their lives!</p>
+                  <p>"Good review" - Customer Name</p>
                 </div>
               </div>
             </div>
@@ -137,88 +193,23 @@
               class="carousel-control-prev"
               type="button"
               data-bs-target="#carouselExampleCaptions"
-              data-bs-slide="prev"
-            >
+              data-bs-slide="prev">
               <span
                 class="carousel-control-prev-icon"
-                aria-hidden="true"
-              ></span>
+                aria-hidden="true"></span>
               <span class="visually-hidden">Previous</span>
             </button>
             <button
               class="carousel-control-next"
               type="button"
               data-bs-target="#carouselExampleCaptions"
-              data-bs-slide="next"
-            >
+              data-bs-slide="next">
               <span
                 class="carousel-control-next-icon"
-                aria-hidden="true"
-              ></span>
+                aria-hidden="true"></span>
               <span class="visually-hidden">Next</span>
             </button>
           </div>
-        </div>
-      </section>
-    </header>
-
-    <main>
-      <section class="container" id="what-we-do">
-        <div class="row">
-          <div class="col-12">
-            <h2>What We Do</h2>
-          </div>
-          <div class="col-12 col-md-6" id="daycare-home">
-            <h3>Day Care</h3>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
-              necessitatibus unde delectus ut. Cumque qui, aliquid, facere nobis
-              minus odit aliquam dolore nam corporis cupiditate laborum? Minima
-              labore omnis praesentium!
-            </p>
-          </div>
-          <div class="col-12 col-md-6" id="basic-training-home">
-            <h3>Basic Training</h3>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus,
-              repudiandae ea sint velit maiores, modi perspiciatis obcaecati
-              fuga a pariatur impedit corrupti non, libero porro labore!
-              Asperiores adipisci doloribus corporis.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      <!---"We go the extra mile" Section-->
-      <section class="container" id="extra-mile">
-        <div class="row">
-            <div class="col-12">
-                <h2>We Go the Extra Mile</h2>
-            </div>
-            <div class="col-12 col-md-6 col-lg-4" id="insurance">
-                <h3>We're Insured</h3>
-                <p>Text</p>
-            </div>
-            <div class="col-12 col-md-6 col-lg-4" id="certified">
-                <h3>We're Certified</h3>
-                <p>Text</p>
-            </div>
-            <div class="col-12 col-md-6 col-lg-4" id="guarantee">
-                <h3>Guranteed Satisfaction</h3>
-                <p>Text</p>
-            </div>
-        </div>
-      </section>
-
-      <!--"Ready to pop in?" Section-->
-      <section class="container" id="pop-in">
-        <div class="row">
-            <div class="col-12">
-                <h3>Ready to Pop In?</h3>
-            </div>
-            <div class="col-12">
-                <button type="button" class="btn btn-primary">Book a Visit</button>
-            </div>
         </div>
       </section>
     </main>
@@ -226,8 +217,8 @@
     <footer class=" container text-center mt-auto">
         <div class="row">
             <div class="col-12 col-md-6">
-                <p><strong>Need Help?</strong><br>
-                <a href="contact-us.html">Contact Us</a><br>
+                <p><strong>Got Questions?</strong><br>
+                <a href="contact-us.html">Send Us a Message</a><br>
                 Or Give Us a Call: 0123456789</p>
             </div>
             <div class="col-12 col-md-6" id="social-links">

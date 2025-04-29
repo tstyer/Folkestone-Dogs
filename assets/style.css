@@ -1,24 +1,150 @@
+
 /* Google Fonts */
 
-/* Delius Statis - Headers */
-@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
-/* Nato Sans - Standard Text/Paragraphs */
-@import url('https://fonts.googleapis.com/css2?family=Delius&family=Noto+Sans+Display:ital,wght@0,100..900;1,100..900&display=swap');
-
+/* Cabin Sketch - Headers */
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Delius&family=Noto+Sans+Display:ital,wght@0,100..900;1,100..900&display=swap');
+/* Outfit - Standard Text/Paragraphs */
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Delius&family=Noto+Sans+Display:ital,wght@0,404;1,404&family=Outfit:wght@100..900&display=swap');
 
 /* Global Styles */
 
+
+.navbar {
+    background-color: #A294F9 !important;
+    width: 1320px;
+    margin-left: 619px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+a {
+    font-family: 'Outfit', serif;
+}
+
+
 #hero {
+    background-color: #E5D9F2;
+    background-image: url(./images/all-types-of-dogs.jpg) center no-repeat;
+}
+
+
+body {
+    background-color: #CDC1FF;
+
+}
+
+
+#what-we-do {
+    background-color: #F5EFFF;
+}
+
+#extra-mile {
+    background-color: #E5D9F2;
+}
+
+#pop-in {
     background-color: #E5D9F2;
 }
 
 h1, h2, h3 {
-    font-family: 'Delius', sans-serif;
-    align-items: center;
+    font-family: 'Cabin Sketch', sans-serif;
+    margin: 10px;
+}
+
+.underline:hover {
+    text-decoration: underline;
 }
 
 p {
-    font-family: 'Nato Sans', sans-serif;
+    font-family: 'Outfit', serif;
+    text-align: center;
+}
+
+footer {
+    background-color: #A294F9;
+}
+
+.btn {
+    background-color: #A294F9;
+    margin: 7px;
+    border-color: #F5EFFF;
+}
+
+
+/* Nav */
+
+#hero-home h2 {
+    font-family: 'Outfit', sans-serif;
+}
+
+
+/* Header - Home page */
+
+#hero-home {
+    min-height: 500px;
+    background-image: url("../assets/images/all-types-of-dogs.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 5px;
+}
+
+/* Container heights */
+
+#what-we-do, #extra-mile {
+    min-height: 300px;
+}
+
+
+
+/* Carousel */
+
+#carousel img {
+    visibility: hidden;
+    max-height: 100px !important;
+    max-width: 400px;
+
+}
+
+.carousel p {
+    font-family: 'Outfit', serif;
+    color: black;
+}
+
+
+
+/* media queires */
+
+/* 1. Navbar */
+
+@media screen and (min-width: 320px) {
+    .navbar {
+        width: auto;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .navbar {
+        width: 720px;
+        margin-left: 24px;
+    }
+}
+
+
+@media screen and (min-width: 1440px) {
+    .navbar {
+        margin-left: 289px;
+        width: 1320px;
+    }
+}
+
+/* 2. Subheading - home */
+
+@media screen and (min-width: 1440px) {
+    #hero-home h2 {
+        margin: 10px 220px; /* This compresses the subheading so it is lesss spread out when screen is greater than 1440px */
+    }
 }
 
 
