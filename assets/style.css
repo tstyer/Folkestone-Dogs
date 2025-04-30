@@ -38,7 +38,10 @@ body {
 
 #what-we-do {
     background-color: #F5EFFF;
+    position: relative;
 }
+
+
 
 #extra-mile {
     background-color: #E5D9F2;
@@ -64,6 +67,12 @@ p {
 
 footer {
     background-color: #A294F9;
+}
+
+i {
+    margin: 0px 5px;
+    max-width: 15px;
+    max-height: 15px;
 }
 
 .btn {
@@ -92,11 +101,32 @@ footer {
 
 /* Container heights */
 
-#what-we-do, #extra-mile {
+#extra-mile {
     min-height: 300px;
 }
 
+#what-we-do {
+    min-height: 450px;
+}
 
+
+/* 'what we do images' */
+
+
+.what-we-do-image-1, .what-we-do-image-2 {
+    position: absolute;
+    max-width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.what-we-do-image-1 {
+    left: 17%;
+}
+
+.what-we-do-image-2 {
+    left: 67%;
+}
 
 /* Carousel */
 
@@ -134,10 +164,11 @@ footer {
 
 @media screen and (min-width: 1440px) {
     .navbar {
-        margin-left: 289px;
+        margin-left: 60px;
         width: 1320px;
     }
 }
+
 
 /* 2. Subheading - home */
 
