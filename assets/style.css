@@ -87,7 +87,7 @@ i {
 
 .btn {
     background-color: #A294F9;
-    margin: 7px;
+    margin: 10px;
     border-color: #F5EFFF;
 }
 
@@ -146,11 +146,26 @@ label {
     min-height: 450px;
 }
 
-#services-day-care, #services-training {
+#services-day-care {
     min-height: 350px;
 }
 
+#services-training {
+    min-height: 335px;
+}
 
+/* Push paragrpahs down 25px */
+
+.paragraph-down {
+    padding-top: 25px;
+}
+
+
+/* Book button on services page */
+
+.book-button {
+    padding-bottom: 15px;
+}
 
 /* 'what we do images' */
 
@@ -174,19 +189,21 @@ label {
 
 #day-care-image, #training-image {
     position: absolute;
-    max-width: 300px;
-    height: 300px;
+    max-width: 250px;
+    height: 250px;
     border-radius: 30%;
 }
 
 #day-care-image {
     left: 67%;
-    bottom: 7%;
+    bottom: 24%;
+    top: 13%;
 }
 
 #training-image {
     left: 12%;
-    bottom: 7%;
+    bottom: 24%;
+    top: 13%;
 }
 
 /* Carousel - home */
