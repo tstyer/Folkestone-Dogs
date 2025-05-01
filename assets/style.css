@@ -41,17 +41,20 @@ body {
 
 }
 
+.colour-1 {
+    background-color:#F5EFFF;
+}
 
-#what-we-do {
-    background-color: #F5EFFF;
+.colour-2 {
+    background-color: #E5D9F2;
+}
+
+
+#what-we-do-home, #services-day-care, #services-training {
     position: relative;
 }
 
 
-
-#extra-mile {
-    background-color: #E5D9F2;
-}
 
 #pop-in {
     background-color: #E5D9F2;
@@ -92,7 +95,7 @@ i {
 
 #booking-form {
     background-color: #F5EFFF;
-    margin-top: 10px;
+    padding-top: 10px;
 }
 
 
@@ -107,7 +110,7 @@ label {
 
 /* Hero */
 
-h2 {
+ #hero-home h2, #hero-booking h2, #hero-services h2  {
     font-family: 'Outfit', sans-serif;
     font-weight: 200;
     margin-top: 10px;
@@ -127,15 +130,26 @@ h2 {
     background-image: url("../assets/images/booking-image-header.jpg");
 }
 
+/* Header - Services */
+
+#hero-services {
+    background-image: url("../assets/images/services-header-2.jpg");
+}
+
 /* Container heights */
 
 #extra-mile {
     min-height: 300px;
 }
 
-#what-we-do {
+#what-we-do-home {
     min-height: 450px;
 }
+
+#services-day-care, #services-training {
+    min-height: 350px;
+}
+
 
 
 /* 'what we do images' */
@@ -156,7 +170,26 @@ h2 {
     left: 67%;
 }
 
-/* Carousel */
+/* Our Services Images */
+
+#day-care-image, #training-image {
+    position: absolute;
+    max-width: 300px;
+    height: 300px;
+    border-radius: 30%;
+}
+
+#day-care-image {
+    left: 67%;
+    bottom: 7%;
+}
+
+#training-image {
+    left: 12%;
+    bottom: 7%;
+}
+
+/* Carousel - home */
 
 #carousel img {
     visibility: hidden;
