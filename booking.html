@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Description" content="Page where people can book their initial visit to the site.">
+    <meta name="Keywords" content="Dog day care, dog sitting, dog training, book dog day care">
+
+      <!--Bootstrap CSS-->
+      <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7"
+      crossorigin="anonymous"/>
+
+      <!--Custom CSS-->
+      <link href="assets/style.css" rel="stylesheet" />
+
+    <title>Folkestone Dogs | Book</title>
+
+
+</head>
+
+
+<body class="d-flex flex-column min-vh-100">
+
+    <nav class="navbar navbar-expand-sm bg-body-tertiary">
+        <div class="container">
+          <a class="navbar-brand" href="index.html">Folkestone Dogs</a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="index.html"
+                  >Home</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="services.html">Services</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="booking.html">Book Visit</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="about-us.html">About Us</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact-us.html">Contact Us</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+    </nav>
+
+    <header class="container header-style" id="hero-booking">
+        <section class="row">
+          <div id="home-title" class="col-12 text-center">
+            <h1 class="text-center underline">Booking Your Visit</h1>
+            <h2>
+              Fill out the form below to let us know how many dogs you need caring for/training and when you'd like to visit
+              and we'll get back top you in 24 hours.
+            </h2>
+          </div>
+        </section>
+    </header>
+
+
+    <main>
+        <section class="container" id="booking-form">
+            <form action="success.html" method="get">
+
+                <!--First and Last name-->
+                <div class="row">
+                 <div class="mb-3 col-12 col-md-6">
+                    <label for="exampleFormControlInput1" class="form-label">First Name</label>
+                    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Required">
+                 </div>
+                 <div class="mb-3 col-12 col-md-6">
+                    <label for="exampleFormControlInput2" class="form-label">Last Name</label>
+                    <input type="text" class="form-control" id="exampleFormControlInput2" placeholder="">
+                 </div>
+                </div>
+
+
+                <!--Email and Text input-->
+                <div class="mb-3">
+                    <label for="exampleFormControlInput3" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="exampleFormControlInput3" placeholder="name@example.com">
+                  </div>
+                  <div class="mb-3">
+                    <label for="exampleFormControlTextarea1" class="form-label">What Services and Days Are You Interested In?</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                  </div>
+            </form>
+            <div class="col-12 text-center">
+                <button type="button" class="btn btn-primary" id="form-submit">Submit</button> 
+            </div>
+            
+        
+        </section>
+
+        
+    </main>
+    
+    <footer class=" container text-center mt-auto">
+        <div class="row">
+            <div class="col-12 col-md-6 col-lg-4">
+                <p><strong>Got Questions?</strong><br>
+                <a href="contact-us.html">Send Us a Message</a><br>
+                Or Give Us a Call: 0123456789</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4">
+                <a href="index.html"><strong>Back Home</strong></a>
+            </div>
+            <div class="col-12 col-md-6 col-lg-4" id="social-links">
+              <p><strong>Follow Our Socials:</strong></p>
+                <i class="fa-brands fa-facebook-f"></i>
+                <i class="fa-brands fa-instagram"></i>
+                <i class="fa-brands fa-x-twitter"></i>
+            </div>
+        </div>
+
+    </footer>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq"
+      crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/c23e9e1c8e.js" crossorigin="anonymous"></script>
+</body>
+</html>

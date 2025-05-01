@@ -12,8 +12,7 @@
 .navbar {
     background-color: #A294F9 !important;
     width: 1320px;
-    margin-left: 619px;
-    display: flex;
+    margin: 0 auto;
     justify-content: center;
     align-items: center;
 
@@ -21,6 +20,13 @@
 
 a {
     font-family: 'Outfit', serif;
+}
+
+.header-style {
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    padding: 5px;
 }
 
 
@@ -67,6 +73,7 @@ p {
 
 footer {
     background-color: #A294F9;
+    padding-top: 7px;
 }
 
 i {
@@ -81,22 +88,43 @@ i {
     border-color: #F5EFFF;
 }
 
+/* Booking Page */
 
-/* Nav */
+#booking-form {
+    background-color: #F5EFFF;
+    margin-top: 10px;
+}
 
-#hero-home h2 {
+
+label {
+    font-family: 'Outfit', serif;
+}
+
+#form-submit{
+    margin-bottom: 19px;
+}
+
+
+/* Hero */
+
+h2 {
     font-family: 'Outfit', sans-serif;
+    font-weight: 200;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 
 /* Header - Home page */
 
 #hero-home {
-    min-height: 500px;
     background-image: url("../assets/images/all-types-of-dogs.jpg");
-    background-size: cover;
-    background-position: center;
-    padding: 5px;
+}
+
+/* Header - Booking */
+
+#hero-booking {
+    background-image: url("../assets/images/booking-image-header.jpg");
 }
 
 /* Container heights */
@@ -146,36 +174,16 @@ i {
 
 /* media queires */
 
-/* 1. Navbar */
 
-@media screen and (min-width: 320px) {
-    .navbar {
-        width: auto;
-    }
-}
 
-@media screen and (min-width: 768px) {
-    .navbar {
-        width: 720px;
-        margin-left: 24px;
-    }
-}
-
+/* 1. Subheading - home */
 
 @media screen and (min-width: 1440px) {
-    .navbar {
-        margin-left: 60px;
-        width: 1320px;
+    h2 {
+        margin: 10px 240px; /* This compresses the subheading so it is lesss spread out when screen is greater than 1440px */
     }
 }
 
-
-/* 2. Subheading - home */
-
-@media screen and (min-width: 1440px) {
-    #hero-home h2 {
-        margin: 10px 220px; /* This compresses the subheading so it is lesss spread out when screen is greater than 1440px */
-    }
-}
+/* Images */
 
 
