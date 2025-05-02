@@ -108,17 +108,32 @@ label {
 }
 
 
-/* Hero */
+/* h2 custom */
 
- #hero-home h2, #hero-booking h2, #hero-services h2  {
+.custom-h2 {
     font-family: 'Outfit', sans-serif;
     font-weight: 200;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
+/* Success page */
 
-/* Header - Home page */
+#hero-success, #success-main {
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+
+
+#success-carousel img {
+    max-width: 450px;
+    max-height: 450px;
+}
+
+
+
+ /* Header - Home page */
 
 #hero-home {
     background-image: url("../assets/images/all-types-of-dogs.jpg");
