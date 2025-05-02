@@ -124,14 +124,12 @@ label {
     padding-bottom: 20px;
 }
 
-
-
-#success-carousel img {
-    max-width: 450px;
-    max-height: 450px;
+#success-image {
+    height: 400px;
+    width: 500px;
+    border-radius: 20%;
+    padding: 15px 0px;
 }
-
-
 
  /* Header - Home page */
 
