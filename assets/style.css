@@ -32,7 +32,7 @@ a {
 
 #hero {
     background-color: #E5D9F2;
-    background-image: url(./images/all-types-of-dogs.jpg) center no-repeat;
+    background-image: url(./images/all-types-of-dogs.jpg) center no-repeat cover;
 }
 
 
@@ -91,6 +91,15 @@ i {
     border-color: #F5EFFF;
 }
 
+/* Learn More button */
+
+.learn-more-button {
+    color: black;
+    background-color: #E5D9F2;
+    margin: 10px;
+    border-color: black;
+}
+
 /* Booking Page */
 
 #booking-form {
@@ -115,6 +124,7 @@ label {
     font-weight: 200;
     margin-top: 10px;
     margin-bottom: 10px;
+    padding: 15px 40px;
 }
 
 /* Success page */
@@ -187,8 +197,9 @@ label {
     position: absolute;
     max-width: 200px;
     height: 200px;
-    border-radius: 100%;
+    border-radius: 20%;
 }
+
 
 .what-we-do-image-1 {
     left: 17%;
@@ -204,7 +215,7 @@ label {
     position: absolute;
     max-width: 250px;
     height: 250px;
-    border-radius: 30%;
+    border-radius: 20%;
 }
 
 #day-care-image {
@@ -247,6 +258,26 @@ label {
     }
 }
 
-/* Images */
+/* 'what we do' section height */
+
+@media screen and (min-width: 1440px) {
+    #what-we-do-home {
+        min-height: 500px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #what-we-do-home {
+        min-height: 550px;
+    }
+}
+
+@media screen and (min-width: 425px) {
+    #what-we-do-home {
+        min-height: px; 950px;
+    }
+}
+
+/* 'what we do' Home page Images */
 
 
