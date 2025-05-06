@@ -50,10 +50,6 @@ body {
 }
 
 
-#what-we-do-home, #services-day-care, #services-training {
-    position: relative;
-}
-
 
 
 #pop-in {
@@ -190,45 +186,18 @@ label {
     padding-bottom: 15px;
 }
 
-/* 'what we do images' */
+
+/* images */
 
 
-.what-we-do-image-1, .what-we-do-image-2 {
-    position: absolute;
-    max-width: 200px;
-    height: 200px;
-    border-radius: 20%;
-}
-
-
-.what-we-do-image-1 {
-    left: 17%;
-}
-
-.what-we-do-image-2 {
-    left: 67%;
-}
-
-/* Our Services Images */
-
-#day-care-image, #training-image {
-    position: absolute;
+.image-size {
     max-width: 250px;
     height: 250px;
     border-radius: 20%;
+    padding-bottom: 12px;
 }
 
-#day-care-image {
-    left: 67%;
-    bottom: 24%;
-    top: 13%;
-}
 
-#training-image {
-    left: 12%;
-    bottom: 24%;
-    top: 13%;
-}
 
 /* Carousel - home */
 
@@ -258,26 +227,13 @@ label {
     }
 }
 
-/* 'what we do' section height */
 
-@media screen and (min-width: 1440px) {
-    #what-we-do-home {
-        min-height: 500px;
+/* 2. Header Image */
+
+@media screen and (max-width: 400px) {
+    #hero-home {
+        background-position: center 25px; /* shifts header image down on mobiles so the button doesn't cover dogs face */
     }
 }
-
-@media screen and (min-width: 768px) {
-    #what-we-do-home {
-        min-height: 550px;
-    }
-}
-
-@media screen and (min-width: 425px) {
-    #what-we-do-home {
-        min-height: px; 950px;
-    }
-}
-
-/* 'what we do' Home page Images */
 
 
