@@ -68,6 +68,7 @@ h1, h2, h3 {
 p {
     font-family: 'Outfit', serif;
     text-align: center;
+    margin-bottom: 0px;
 }
 
 footer {
@@ -76,7 +77,8 @@ footer {
 }
 
 i {
-    margin: 0px 5px;
+    margin-bottom: 20px;
+    margin-left: 5px;
     max-width: 15px;
     max-height: 15px;
 }
@@ -120,7 +122,7 @@ label {
     font-weight: 200;
     margin-top: 10px;
     margin-bottom: 10px;
-    padding: 15px 40px;
+    padding: 0px 30px;
 }
 
 /* Success page */
@@ -141,6 +143,14 @@ label {
 
 #hero-home {
     background-image: url("../assets/images/all-types-of-dogs.jpg");
+}
+
+.home-h2 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 200;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0px 40px;
 }
 
 /* Header - Booking */
@@ -212,6 +222,24 @@ label {
     font-family: 'Outfit', serif;
     color: black;
 }
+
+
+
+/* Footer */
+
+.got-questions {
+    padding-top: 5px;
+}
+
+.social-links {
+    padding-top: 5px;
+}
+
+.back-home {
+    align-items: center;
+    justify-content: center;
+}
+
 
 
 
