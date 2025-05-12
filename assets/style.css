@@ -15,7 +15,6 @@
     margin: 0 auto;
     justify-content: center;
     align-items: center;
-
 }
 
 a {
@@ -29,16 +28,12 @@ a {
     padding: 5px;
 }
 
-
 #hero {
-    background-color: #E5D9F2;
-    background-image: url(./images/all-types-of-dogs.jpg) center no-repeat cover;
+    background: #E5D9F2 url(./images/all-types-of-dogs.jpg) center center / cover no-repeat;
 }
-
 
 body {
     background-color: #CDC1FF;
-
 }
 
 .colour-1 {
@@ -49,12 +44,6 @@ body {
     background-color: #E5D9F2;
 }
 
-
-
-
-#pop-in {
-    background-color: #E5D9F2;
-}
 
 h1, h2, h3 {
     font-family: 'Cabin Sketch', sans-serif;
@@ -89,6 +78,8 @@ i {
     border-color: #F5EFFF;
 }
 
+
+
 /* Learn More button */
 
 .learn-more-button {
@@ -97,6 +88,8 @@ i {
     margin: 10px;
     border-color: black;
 }
+
+
 
 /* Booking Page */
 
@@ -115,6 +108,7 @@ label {
 }
 
 
+
 /* h2 custom */
 
 .custom-h2 {
@@ -124,6 +118,8 @@ label {
     margin-bottom: 10px;
     padding: 0px 30px;
 }
+
+
 
 /* Success page */
 
@@ -139,6 +135,8 @@ label {
     padding: 15px 0px;
 }
 
+
+
  /* Header - Home page */
 
 #hero-home {
@@ -153,17 +151,23 @@ label {
     padding: 0px 40px;
 }
 
+
+
 /* Header - Booking */
 
 #hero-booking {
     background-image: url("../assets/images/booking-image-header.jpg");
 }
 
+
+
 /* Header - Services */
 
 #hero-services {
     background-image: url("../assets/images/services-header-2.jpg");
 }
+
+
 
 /* Container heights */
 
@@ -183,6 +187,9 @@ label {
     min-height: 335px;
 }
 
+
+
+
 /* Push paragrpahs down 25px */
 
 .paragraph-down {
@@ -190,11 +197,15 @@ label {
 }
 
 
+
+
 /* Book button on services page */
 
 .book-button {
     padding-bottom: 15px;
 }
+
+
 
 
 /* images */
@@ -206,6 +217,7 @@ label {
     border-radius: 20%;
     padding-bottom: 12px;
 }
+
 
 
 
@@ -222,6 +234,7 @@ label {
     font-family: 'Outfit', serif;
     color: black;
 }
+
 
 
 
