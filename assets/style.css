@@ -91,6 +91,15 @@ i {
 
 
 
+/* Copyright */
+
+.copyright p {
+    font-size: smaller;
+    padding-top: 15px;
+}
+
+
+
 /* Booking Page */
 
 #booking-form {
@@ -274,6 +283,14 @@ label {
 @media screen and (max-width: 400px) {
     #hero-home {
         background-position: center 25px; /* shifts header image down on mobiles so the button doesn't cover dogs face */
+    }
+}
+
+/* Follow Our Socials padding top for smaller screens */
+
+@media screen and (max-width: 425px) {
+    .social-links {
+        padding-top: 10px;
     }
 }
 
