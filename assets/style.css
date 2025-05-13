@@ -79,7 +79,6 @@ footer {
 
 i {
     margin-bottom: 20px;
-    margin-left: 5px;
     max-width: 15px;
     max-height: 15px;
 }
@@ -312,7 +311,6 @@ label {
         margin: 10px 240px; /* This compresses the subheading so it is lesss spread out when screen is greater than 1440px */
     }
 }
-
 
 /* 2. Header Image */
 
