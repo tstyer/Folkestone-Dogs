@@ -246,6 +246,18 @@ label {
 
 
 
+/* Map */
+
+#map {
+    padding: 5px;
+}
+
+.map-style {
+    padding: 10px;
+}
+
+
+
 
 /* Footer */
 
@@ -258,6 +270,7 @@ label {
 }
 
 .back-home {
+    padding-top: 5px;
     align-items: center;
     justify-content: center;
 }
@@ -286,7 +299,7 @@ label {
     }
 }
 
-/* Follow Our Socials padding top for smaller screens */
+/* 3. Follow Our Socials padding top for smaller screens */
 
 @media screen and (max-width: 425px) {
     .social-links {
