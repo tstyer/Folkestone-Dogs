@@ -332,7 +332,12 @@ label {
 
 /* 4. Carousel - allows the text to be seen for mobiles */
 
-
+@media screen and (min-width: 320px) {
+    .d-md-block {
+        display: block !important;
+        font-size: smaller;
+    }
+}
 
 
 
