@@ -13,11 +13,15 @@
 
 .navbar {
     background-color: #A294F9 !important;
-    width: 1320px;
     margin: 0 auto;
     justify-content: center;
     align-items: center;
 }
+
+nav > a {
+    padding-left: 8px;
+}
+
 
 .active {
     text-decoration: underline;
@@ -275,6 +279,10 @@ label {
 
 .social-links {
     padding-top: 5px;
+}
+
+.social-links i {
+    padding-top: 10px;
 }
 
 .back-home {
