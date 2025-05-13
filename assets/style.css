@@ -18,19 +18,6 @@
     align-items: center;
 }
 
-nav > a {
-    padding-left: 8px;
-}
-
-nav a {
-    transition: color 0.4s ease !important;
-}
-
-
-nav a:hover {
-    color: white !important;
-}
-
 
 .active {
     text-decoration: underline;
@@ -106,6 +93,22 @@ i {
     background-color: #A294F9;
     margin: 10px;
     border-color: #F5EFFF;
+}
+
+
+/* Navigation */
+
+nav > a { /* Only the direct descendent - the 'Folkestone Dogs' logo has this padding */
+    padding-left: 8px;
+}
+
+nav a {
+    transition: color 0.4s ease !important;
+}
+
+
+nav a:hover {
+    color: white !important;
 }
 
 
@@ -313,6 +316,14 @@ label {
     padding-top: 5px;
     align-items: center;
     justify-content: center;
+}
+
+footer a {
+    transition: color 0.4s ease !important;
+}
+
+footer a:hover {
+    color: white;
 }
 
 
