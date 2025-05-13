@@ -210,6 +210,13 @@ label {
 
 
 
+/* 'we go the extra mile' paragraph sections */
+
+#insurance, #certified, #guarantee {
+    padding: 8px
+}
+
+
 
 /* Push paragrpahs down 25px */
 
