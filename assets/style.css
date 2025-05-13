@@ -212,7 +212,7 @@ label {
 
 /* 'we go the extra mile' paragraph sections */
 
-#insurance, #certified, #guarantee {
+#insurance, #certified, #guarantee { /* Breathing space between subheader (We go the extra mile) and h3's below */
     padding: 8px
 }
 
@@ -329,6 +329,10 @@ label {
         padding-top: 10px;
     }
 }
+
+/* 4. Carousel - allows the text to be seen for mobiles */
+
+
 
 
 
