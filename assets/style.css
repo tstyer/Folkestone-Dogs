@@ -28,7 +28,6 @@ nav > a {
 }
 
 
-
 a {
     font-family: 'Outfit', serif;
 }
@@ -79,8 +78,17 @@ footer {
 
 i {
     margin-bottom: 20px;
-    max-width: 15px;
-    max-height: 15px;
+    max-width: 25px;
+    max-height: 25px;
+    justify-content: space-between;
+}
+
+.fa-facebook-f {
+    padding-right: 10px;
+}
+
+.fa-x-twitter {
+    padding-left: 10px;
 }
 
 .btn {
@@ -125,6 +133,13 @@ label {
 
 #form-submit{
     margin-bottom: 19px;
+}
+
+
+/* Services Page */
+
+#services-day-care p, #services-training p {
+    padding: 0 20px 10px;
 }
 
 
@@ -213,14 +228,6 @@ label {
 
 #insurance, #certified, #guarantee { /* Breathing space between subheader (We go the extra mile) and h3's below */
     padding: 8px
-}
-
-
-
-/* Push paragrpahs down 25px */
-
-.paragraph-down {
-    padding-top: 25px;
 }
 
 
