@@ -111,6 +111,12 @@ nav a:hover {
     color: white !important;
 }
 
+.collapse {
+    display: flex;
+    align-items: flex-end; /* Aligns items in navbar to the right when in 'drop-down' mode */
+    padding-right: 70px;
+}
+
 
 
 /* Learn More button */
