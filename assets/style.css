@@ -158,7 +158,7 @@ label {
 
 /* Services Page */
 
-#services-day-care p, #services-training p {
+.paragraph-custom {
     padding: 0 20px 10px;
 }
 
