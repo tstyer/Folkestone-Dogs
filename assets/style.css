@@ -293,12 +293,9 @@ label {
 
 /* Map */
 
-#map {
-    padding: 5px;
-}
-
 .map-style {
-    padding: 10px;
+    display: inline-block;
+    padding: 5px;
 }
 
 
