@@ -119,6 +119,18 @@ nav a:hover {
 
 
 
+/* Paragrpah Links */
+
+p a {
+    transition: color 0.4s ease;
+}
+
+p a:hover {
+    color: white; /* Changes links in P's to white when hovered over. */
+}
+
+
+
 /* Learn More button */
 
 .learn-more-button {
