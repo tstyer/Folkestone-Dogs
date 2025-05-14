@@ -242,10 +242,6 @@ label {
     min-height: 300px;
 }
 
-#what-we-do-home {
-    min-height: 450px;
-}
-
 #services-day-care {
     min-height: 350px;
 }
@@ -253,6 +249,37 @@ label {
 #services-training {
     min-height: 335px;
 }
+
+
+
+/* 'What we do' container - displayed Via flex to keep the images at equal height all the time */
+
+
+.what-we-do {
+    display: flex;
+    min-height: 450px;
+    gap: 20px; /* Gap between collumns */
+    align-items: flex-start;
+}
+
+.service {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-width: auto;
+    height: 100%;
+}
+
+.service p {
+    flex-grow: 1;
+}
+
+.service img {
+    margin-top: auto;
+    width: 100%;
+    object-fit: cover;
+}
+
 
 
 
@@ -382,4 +409,5 @@ footer a:hover {
 }
 
 
+/* 5.  */
 
