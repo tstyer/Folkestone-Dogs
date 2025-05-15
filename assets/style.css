@@ -412,6 +412,14 @@ footer a:hover {
     }
 }
 
+/* 5. Navigation bar */
+
+@media screen and (min-width: 576px) {
+    .navbar-nav {
+        margin-left: auto; /* Shifts the open navbar to the far right, away from the Logo 'Folkestone dogs' on the left */
+    }
+}
+
 
 
 
