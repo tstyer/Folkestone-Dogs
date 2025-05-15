@@ -315,6 +315,11 @@ label {
     padding-bottom: 12px;
 }
 
+.centre-items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
 
