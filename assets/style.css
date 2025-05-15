@@ -167,7 +167,7 @@ label {
     font-family: 'Outfit', serif;
 }
 
-#form-submit{
+form .btn {
     margin-bottom: 19px;
 }
 
@@ -194,7 +194,7 @@ label {
 
 /* Success page */
 
-#hero-success, #success-main {
+.success-spacing {
     padding-top: 100px;
     padding-bottom: 20px;
 }
@@ -289,10 +289,9 @@ label {
 
 /* 'we go the extra mile' paragraph sections */
 
-#insurance, #certified, #guarantee { /* Breathing space between subheader (We go the extra mile) and h3's below */
-    padding: 8px
+.extra-space {
+    padding: 8px;
 }
-
 
 
 
