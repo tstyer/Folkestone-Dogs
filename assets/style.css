@@ -342,6 +342,11 @@ form .btn {
     padding: 5px;
 }
 
+.map-style iframe {
+    width: 100%;
+    padding: 10px;
+}
+
 .map p {
     text-align: center;
 }
