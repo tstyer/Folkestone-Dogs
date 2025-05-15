@@ -41,6 +41,32 @@ They'll be looking for reliablity in the business by different means and to find
 
 #### First-Time Visitors
 
+1. As a first-time visitor, I want to see why I should choose folkestone dogs over another business.
+2. As a first time visitor, I want to read about their services, experience and qualifications on the first page.
+3. As a first-time visitor, I want to easily navigate to any contact information or page.
+4. As a first-time visitor, I want to see where the business is located.
+
+#### As a Returning Visitor
+
+1. As a returning visitor, I want to easily navigate to their contact/booking page.
+2. As a returning visitor, I want to easily find their social media links to see their social proof with current clients.
+3. As a returning visitor, I want to easily see images.
+4. As a returning visitor, I'd like to easily access and navigate the site via a mobile or tablet. 
+
+### Site Owner Goals
+
+My goals for Folkestone Dogs are to create an engaging and user-friendly site that appeals to the desires of the target audience. The goal will be to showcase the reliability of the business
+through simple and clean descriptions that stand out from their background. 
+
+Other Sit Owner Goals:
+- To boost online bookings by inspiring the reader to book or contact us.
+- To build trust with potential future clients via social proof, acheivements, images and descriptions.
+- To increase daycare benefits by emphasising socialising, behaviour, excersie benefits.
+- To increase social media following by easily discoverable links.
+- To offer a clear contact form and clearly displays a 'Success' page once subtmitted.
+
+## Features
+
 
 
 
