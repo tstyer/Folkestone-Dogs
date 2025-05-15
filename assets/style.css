@@ -66,7 +66,7 @@ h1, h2, h3 {
 
 p {
     font-family: 'Outfit', serif;
-    text-align: center;
+    text-align: justify;
     margin-bottom: 0px;
 }
 
@@ -335,6 +335,7 @@ label {
 .carousel p {
     font-family: 'Outfit', serif;
     color: black;
+    text-align: center;
 }
 
 
@@ -346,10 +347,17 @@ label {
     padding: 5px;
 }
 
+.map p {
+    text-align: center;
+}
 
 
 
 /* Footer */
+
+footer p {
+    text-align: center;
+}
 
 .got-questions {
     padding-top: 5px;
