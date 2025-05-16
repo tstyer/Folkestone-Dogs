@@ -119,7 +119,7 @@ The nav. bar:
 
 - This page is only accessed once the form above is filled out and submitted.
 - There is not her image.
-- There is a single, miedium-sized image of which is positive and in tone.
+- There is a single, medium-sized image of which is positive and in tone.
 - There is a simple message, displayed in the constant font throughout.
 
 ## Design
@@ -135,6 +135,58 @@ The colours mainly used were:
 ![Picture of the colours used](assets/images/screenshot-of-colours.jpg)
 
 ### Typography 
+
+- Header Font: The font used for all headers was 'Cabin Sketch', imported from Google fonts.
+  This font was consistent with the brand tone (friendly, calm, playful).
+
+- Paragraph Font: The font for regular text is 'Outfit', which is also calm but contrasting to the header font.
+
+### Imagery 
+
+- All images were sources from ![Dreamstime](https://www.dreamstime.com/?gad_source=1&gad_campaignid=22463944440&gbraid=0AAAAA_ZeP4BR30TPCyxZl7KqV3DrTOPEC&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfjWCeCw3mx6ZqAVDyNDhsNlTlGrZAGthEoQVywDaRvWlPoYwbvHWUgaAuIaEALw_wcB#res56964943)
+- The contact/booking page includes a map implemented from Google that is interactive.
+
+### Wireframes 
+
+Mock-ups of the home page, services and booking page were created using Balsamiq. They were created for mobiles, tablets and desktops. 
+
+- ![Wireframes](https://balsamiq.cloud/sb2mrbr/ppikq61/rA886)
+
+### Features to Implement
+
+In the future, I want to implement Java Script and create more pages for the site. 
+The goal is to use it as a template to improve my front-end ability. 
+
+I would like to create an interactive form that modifies and adds new questions in real-time as the user progresses through it by filling in the form. 
+
+## Technologies Used
+
+### Development Tools
+
+- HTML5: For the mark-up language. 
+
+- CSS3: for styling
+
+- VS Code: Local IDE to commit and push changes once made. 
+
+- Balsamiq: Used to create blueprints or wire frames.
+
+- Github: To host my code.
+
+- Bootstrap 5.3: For implementing pre-built code that is responsive.
+
+- Font Awesomne: For Fav Icons and Social Icons. 
+
+- Dreamstime: Used for all images. 
+
+- Google Fonts: Used for all fonts.
+
+- Color Hunt: Used for all the colours on the site. 
+
+- W3C: Used to scan the html and CSS code for validation. 
+
+- Google Chrome Lighthouse: For accessbility, SEO, responsiveness and best practices.
+
 
 
 
