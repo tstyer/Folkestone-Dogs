@@ -335,9 +335,122 @@ These user tests confirm that the website is fully functional and user-friendly,
 
 ### Responsiveness
 
-- 
+The website was tested on Microsoft Edge and Chrome across different sizes for responsiveness.
 
+Mobiles: 
 
+- Mobiles: 320px (Max)
+- iPhone SE
+
+Tablets:
+
+- iPad Air
+- iPad Pro
+
+Desktops:
+
+- Laptop (1024px's)
+- Desktop (1440px's)
+
+### Browser Compatability
+
+The website was tested on Microsoft Edge, Chrome, Internet Explorer, and Firefox and works as expected. 
+
+## Bugs
+
+### Carousel Not Displaying Text
+
+Issue: When first implementing the carousel, the paragraph text did not show.
+Fix: Added a media query that shrinks the font size to smaller.
+
+### Homepage Images Uneaven
+
+Issue: displaying the homepage on tablet sizes created an uneven image display. 
+Fix: Changed the display to Flex, added space-between, flex-grow to 1, and flex-direction of column.
+
+### Missing Alt Text
+
+Issue: The images on the homepage had missing alt text.
+Fix: Added alt tags and included the text.
+
+### Uneven Footer Elements
+
+Issue: The footer displayed uneven links at the full size and smaller sizes. 
+Fix: Ensured the padding-top was at 5px for all top-level links and items were aligned to the centre. 
+
+### Map Display Was Too Small
+
+Issue: The map on the booking page was too narrow. 
+Fix: By selecting it in CSS, I set the width to 100%. 
+
+### Navigation Bar Burger 
+
+Issue: Nav. Bar displaying on the wrong side (right) when screen size minimised. 
+Fix: This was due to the placement of the anchor tag (Folkestone Dogs) positioning. I moved it to be placed next to the end of the buttons closing tag.
+
+## Validation Errors
+
+### HTML
+
+#### Sections
+
+The use of sections was flagged when there was no use of headings. Thus, I removed the section to replace it with div's. 
+
+#### Improper Closing tags
+
+Self-closing elements included forward slashed, so I removed them as suggested. 
+
+### CSS
+
+#### ID's
+
+Too many ID's were used, then removed as suggested. 
+
+## Image Testing
+
+After running Lighthouse, the images were clearly marked, and I learned that they were far too large. I then downloaded smaller versions. 
+
+## Credits
+
+### Media
+
+#### Images
+
+- Dogs running in a park, by aglphotoproductions. Found at ![here](https://www.dreamstime.com/royalty-free-stock-photos-little-dogs-park-image25207288).  
+- Trainer with dogs, by Filipp o Romeo. Found ![here](https://www.dreamstime.com/royalty-free-stock-images-dog-trainer-teaching-dogs-group-listen-to-commands-image32812229). 
+- ‘Booking image header’, by Lilun. Found ![here](https://www.dreamstime.com/stock-photo-group-dogs-white-background-standing-looking-up-image88483504). 
+- ‘All types of dogs’, by Lilun. Found ![here](https://www.dreamstime.com/stock-photo-group-dogs-cats-white-background-standing-looking-up-image88483363). 
+- ‘Dogs running’, by Lunja87. Found ![here](https://www.dreamstime.com/stock-photo-group-dogs-playing-park-image69809088).
+- ‘Dogs Running 2’, by Tamara Bauer. Found ![here](https://www.dreamstime.com/royalty-free-stock-photo-running-dogs-image19923945).
+- ‘Services header 2’, by Lilun. Found ![here](https://www.shutterstock.com/image-photo/cat-dog-group-dogs-kitten-looking-195226160).
+- ‘Services header image’, by Lilun. Found ![here](https://www.dreamstime.com/stock-photo-group-dogs-cats-white-background-standing-looking-up-image88483363).
+- ‘Success page image’, by Cammeraydave. Found ![here](https://www.dreamstime.com/royalty-free-stock-images-dogs-dog-park-training-image4492729).
+
+#### Icons
+
+All icons were implemented using Font Awesome. 
+
+### Code
+
+#### Boostrap
+
+Copde imported from Bootstrap:
+
+1. All buttons.
+
+2. Booking/Contact form.
+
+3. Navigation Bar.
+
+4. Carousel.
+
+#### Google Map
+
+The Google map used was imported from Google.
+
+### Colours
+
+All colours were imported from Color Hunt. 
 
 
 
