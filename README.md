@@ -108,7 +108,7 @@ The nav. bar:
 - Includes detailed descriptions of the services and what the benefits are.
 - Includes the footer.
 
-### Book Now Pages
+### Book Now Page
 
 - Displays another captivating hero image.
 - The subheading is concise and to the point.
@@ -120,4 +120,22 @@ The nav. bar:
 - This page is only accessed once the form above is filled out and submitted.
 - There is not her image.
 - There is a single, miedium-sized image of which is positive and in tone.
-- There is a simple message, displayed in the constant font throughout. 
+- There is a simple message, displayed in the constant font throughout.
+
+## Design
+
+### Colour Scheme
+
+The palette of colours were chosen after doing a little research to find out which colours were specific to a trustworthy and friendly brand.
+The variations of easy and light blue reflect the calmness and welcoming tone of the business and what they stand for. The pallete was discovered using 
+Color Hunt. [Here is the exact link](https://colorhunt.co/palette/f5efffe5d9f2cdc1ffa294f9) to the palette.
+
+The colours mainly used were:
+
+![Picture of the colours used](assets/images/screenshot-of-colours.jpg)
+
+### Typography 
+
+
+
+
