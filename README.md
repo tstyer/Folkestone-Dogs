@@ -351,7 +351,21 @@ See the latest results, below:
 
 ### Manual Testing
 
-![User testing screenshot](assets/images/User-testing.png)
+| Feature                | Expected Outcome                                                  | Testing Performed                                   | Result                                                                 | Pass/Fail |
+|------------------------|-------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------------|-----------|
+| Nav. Bar Links         | When clicked, they open the correct pages.                       | Clicked on Navigation links.                        | They all work as expected, sending the user to the dedicated page.     | Pass      |
+| Hamburger Menu         | When clicked, it shows the links on the left.                    | Clicked on hamburger icon.                          | The drop-down worked as expected.                                       | Pass      |
+| Book Now Button        | Once clicked, it routes to the booking page.                     | Clicked on the 'Book now' button on all pages.      | All buttons take you to the booking page successfully.                 | Pass      |
+| Links (Various)        | Can change to white when hovering on links.                         | Hovered over every link on every page.              | They all change to white successfully.                                 | Pass      |
+| Contact/Booking Forms  | Can only be submitted when required fields are filled.               | Filled in required fields and tried to submit.      | The form required mandatory fields to submit.                          | Pass      |
+| Responsive Testing     | The page looks usable on mobile, tablets and desktops.           | Opened the site/pages on desktop and mobile.        | The page loaded and scaled nicely across devices.                      | Pass      |
+| Footer Social Links    | Each link goes to the correct page.                              | Clicked on each link.                               | Each link takes you to correct pages.                                  | Pass      |
+| Other Footer Links     | Navigate links open when opened.                                 | Clicked on each link.                               | Each link goes to the correct information.                             | Pass      |
+| Contact Section Data   | The content (details and phone) shows on each page.               | Opened each page to check.                          | Each page shows the contact details.                                   | Pass      |
+| Learn More Buttons     | Buttons take you to Services/More Info when clicked.             | Clicked on each button.                             | Each Learn More button opens Services.html.                            | Pass      |
+| Images Load Efficiently| The images load instantly.                                       | Opened each page to check.                          | Each picture loads instantly.                                          | Pass      |
+| Overall UX             | Smooth experience with everything working.                       | Clicked on each page and ensured everything works.  | Each page is consistent and works as expected.                         | Pass      |
+
 
 These user tests confirm the website is fully functional and user-friendly, providing a seamless experience for visitors.
 
@@ -440,15 +454,15 @@ A list of all the resources that were outsourced will be displayed here.
 
 #### Images
 
-- Dogs running in a park, by aglphotoproductions. Found at ![here](https://www.dreamstime.com/royalty-free-stock-photos-little-dogs-park-image25207288).  
-- Trainer with dogs, by Filipp o Romeo. Found ![here](https://www.dreamstime.com/royalty-free-stock-images-dog-trainer-teaching-dogs-group-listen-to-commands-image32812229). 
-- ‘Booking image header’, by Lilun. Found ![here](https://www.dreamstime.com/stock-photo-group-dogs-white-background-standing-looking-up-image88483504). 
-- ‘All types of dogs’, by Lilun. Found ![here](https://www.dreamstime.com/stock-photo-group-dogs-cats-white-background-standing-looking-up-image88483363). 
-- ‘Dogs running’, by Lunja87. Found ![here](https://www.dreamstime.com/stock-photo-group-dogs-playing-park-image69809088).
-- ‘Dogs Running 2’, by Tamara Bauer. Found ![here](https://www.dreamstime.com/royalty-free-stock-photo-running-dogs-image19923945).
-- ‘Services header 2’, by Lilun. Found ![here](https://www.shutterstock.com/image-photo/cat-dog-group-dogs-kitten-looking-195226160).
-- ‘Services header image’, by Lilun. Found ![here](https://www.dreamstime.com/stock-photo-group-dogs-cats-white-background-standing-looking-up-image88483363).
-- ‘Success page image’, by Cammeraydave. Found ![here](https://www.dreamstime.com/royalty-free-stock-images-dogs-dog-park-training-image4492729).
+- Dogs running in a park, by aglphotoproductions. Found at [here](https://www.dreamstime.com/royalty-free-stock-photos-little-dogs-park-image25207288).  
+- Trainer with dogs, by Filipp o Romeo. Found [here](https://www.dreamstime.com/royalty-free-stock-images-dog-trainer-teaching-dogs-group-listen-to-commands-image32812229). 
+- ‘Booking image header’, by Lilun. Found [here](https://www.dreamstime.com/stock-photo-group-dogs-white-background-standing-looking-up-image88483504). 
+- ‘All types of dogs’, by Lilun. Found [here](https://www.dreamstime.com/stock-photo-group-dogs-cats-white-background-standing-looking-up-image88483363). 
+- ‘Dogs running’, by Lunja87. Found [here](https://www.dreamstime.com/stock-photo-group-dogs-playing-park-image69809088).
+- ‘Dogs Running 2’, by Tamara Bauer. Found [here](https://www.dreamstime.com/royalty-free-stock-photo-running-dogs-image19923945).
+- ‘Services header 2’, by Lilun. Found [here](https://www.shutterstock.com/image-photo/cat-dog-group-dogs-kitten-looking-195226160).
+- ‘Services header image’, by Lilun. Found [here](https://www.dreamstime.com/stock-photo-group-dogs-cats-white-background-standing-looking-up-image88483363).
+- ‘Success page image’, by Cammeraydave. Found [here](https://www.dreamstime.com/royalty-free-stock-images-dogs-dog-park-training-image4492729).
 
 #### Icons
 
@@ -461,6 +475,13 @@ I had sourced the map directly from Google, after finding a familiar location. I
 ### Code
 
 The majority of the code is original, but some of which had been supplemented with Bootstrap. All of which had been heavily modified to suit the structure and colour of Folkestone Dogs. 
+
+Here are links to the Bootstrap templates used:
+
+- [Navigation](https://getbootstrap.com/docs/5.3/components/navbar/)
+- [Carousel](https://getbootstrap.com/docs/5.3/components/carousel/)
+- [Form](https://getbootstrap.com/docs/5.3/forms/overview/#overview)
+
 
 #### Boostrap
 
@@ -478,13 +499,13 @@ Code imported from Bootstrap:
 
 All colours were imported from Color Hunt. You can find a link to Color Hunt [here](https://colorhunt.co/)
 
-##Conclusion
+## Conclusion
 
-This project was a steep learning curve and I thoroughly enjoyed the process. It also helped me understand my passion for front-end development and is what I will persue moving forward. 
+This project was a steep learning curve, and I thoroughly enjoyed the process. It also helped me understand my passion for front-end development, and is what I will pursue moving forward. 
 
-I have learned about areas of improvement, and will impelemt changes to this website as I progress. 
+I have learned about areas of improvement, and will implement changes to this website as I progress. 
 
-Help from tutors and my mentor was second-to-none, and this makes me feel confident going into the next projects. 
+Help from tutors, and my mentor was second-to-none, and this makes me feel confident going into the next projects. 
 
 
 
