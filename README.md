@@ -2,7 +2,7 @@
  
 See the live version of Folkestone Dogs, here: 
 
-[![Header for Folkestone Dogs website](VS CODE PROJECTS\Level 5 Diploma - Portfolio Projects\Project 1\assets\images\READMEHeader.png)]
+[![Header for Folkestone Dogs website](..\assets\images\READMEHeader.png)]
 
 ## Introduction
 
