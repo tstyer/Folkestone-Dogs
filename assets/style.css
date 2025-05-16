@@ -115,6 +115,22 @@ nav a:hover {
 
 
 
+/* Hero's */
+
+.hero-booking {
+    background-image: url("../assets/images/booking-header-medium.jpg");
+}
+
+.hero-services {
+    background-image: url("../assets/images/services-header-medium.jpg");
+}
+
+.hero-home {
+    background-image: url("../assets/images/header-home-medium.jpg");
+}
+
+
+
 /* Paragrpah Links */
 
 p a {
@@ -149,7 +165,7 @@ p a:hover {
 
 /* Booking Page */
 
-#booking-form {
+.booking-form {
     background-color: #F5EFFF;
     padding-top: 10px;
 }
@@ -159,9 +175,11 @@ label {
     font-family: 'Outfit', serif;
 }
 
+
 form .btn {
     margin-bottom: 19px;
 }
+
 
 
 /* Services Page */
@@ -191,7 +209,7 @@ form .btn {
     padding-bottom: 20px;
 }
 
-#success-image {
+.success-image img {
     height: 400px;
     width: 500px;
     border-radius: 20%;
@@ -200,11 +218,6 @@ form .btn {
 
 
 
- /* Header - Home page */
-
-#hero-home {
-    background-image: url("../assets/images/header-home-medium.jpg");
-}
 
 .home-h2 {
     font-family: 'Outfit', sans-serif;
@@ -214,21 +227,6 @@ form .btn {
     padding: 0px 40px;
 }
 
-
-
-/* Header - Booking */
-
-#hero-booking {
-    background-image: url("../assets/images/booking-header-medium.jpg");
-}
-
-
-
-/* Header - Services */
-
-#hero-services {
-    background-image: url("../assets/images/services-header-medium.jpg");
-}
 
 
 
@@ -315,7 +313,7 @@ form .btn {
 
 /* Carousel - home */
 
-#carousel img {
+.carousel img {
     visibility: hidden;
     max-height: 100px !important;
     max-width: 400px;
@@ -397,7 +395,7 @@ footer a:hover {
 /* 2. Header Image */
 
 @media screen and (max-width: 400px) {
-    #hero-home {
+    .hero-home {
         background-position: center 25px; /* shifts header image down on mobiles so the button doesn't cover dogs face */
     }
 }
