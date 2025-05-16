@@ -1,6 +1,6 @@
 ﻿# Folkestone-Dogs
  
-See the live version of Folkestone Dogs, here: ![Folkestone Dogs Deployed site](https://tstyer.github.io/Folkestone-Dogs/)
+See the live version of Folkestone Dogs, here: [Folkestone Dogs Deployed site](https://tstyer.github.io/Folkestone-Dogs/)
 
 ![Header for Folkestone Dogs website](assets/images/READMEHeader.png)
 
@@ -18,17 +18,17 @@ The goal for the 'Folkestone Dogs' website is to show prospective clients that t
 
 ### Demographics
 
-The main users of the site will be couples who have recently adopted or purchased a new dog. They will ideally be located in the Folkestone area, but likely clients will come from the whole of kent. 
+The main users of the site will be couples who have recently adopted or purchased a new dog. They will ideally be located in the Folkestone area, but likely clients will come from the whole of Kent. 
 There is no particular age, but the majority will likely be late-20's to mid-40's, men and women. 
 
-### User Requirements
+### User Requirements/Expectations
 
-1. Grab the user's attention by stating what they do in the header and subheads of the homepage.
+1. Immediately what Folkestone Dogs do in the header and subheads of the homepage.
 2. Provide service information on the homepage.
 3. Address safety concerns by giving social proof and qualifications.
-4. Be easy to navigate and consistent.
-5. Provide clear and understandable information.
-6. Provide contact details throughout.
+4. An easy to navigate website that is consistent.
+5. See clear and understandable information.
+6. See contact details throughout.
 7. Offer responsiveness for mobile, tablet, desktop and interaction when hovering over links.
 
 ### User Stories
@@ -37,7 +37,7 @@ There is no particular age, but the majority will likely be late-20's to mid-40'
 
 The goal for the target user will be to learn who Folkestone Dogs are, what makes them unique, why they should book their initial visit with the company, and then to proceed with a booking. 
 They will be searching for a local business that can offer training and/or daycare services 7 days per week, 365 days per year. 
-They'll be looking for reliability in the business by different means and to find their contact information easily. 
+They'll be looking for reliability in the business by different means, and to find their contact information easily. 
 
 #### First-Time Visitors
 
@@ -50,7 +50,7 @@ They'll be looking for reliability in the business by different means and to fin
 
 1. As a returning visitor, I want to easily navigate to their contact/booking page.
 2. As a returning visitor, I want to easily find their social media links to see their social proof with current clients.
-3. As a returning visitor, I want to easily see images.
+3. As a returning visitor, I want to see compelling images.
 4. As a returning visitor, I'd like to easily access and navigate the site via a mobile or tablet. 
 
 ### Site Owner Goals
@@ -59,11 +59,11 @@ My goals for Folkestone Dogs are to create an engaging and user-friendly site th
 through simple and clean descriptions that stand out from their background. 
 
 Other Sit Owner Goals:
-- To boost online bookings by inspiring the reader to book or contact us.
+- To boost online bookings by inspiring the reader.
 - To build trust with potential future clients via social proof, achievements, images and descriptions.
 - To increase daycare benefits by emphasising socialising, behaviour, exercise benefits.
 - To increase social media following by easily discoverable links.
-- To offer a clear contact form and clearly displays a 'Success' page once submitted.
+- To offer a clear contact form and clearly display a 'Success' page once submitted.
 
 ## Features
 
@@ -73,26 +73,30 @@ The navigation bar in the website is consistent across all web pages and has a r
 
 The nav. bar:
 
-- Includes links to all the essential web pages, except the seccess.html page.
+- Includes links to all the essential web pages, except the success.html page.
 - Includes a responsive, colour change to white when you hover over the links.
 - Underlines the current page you are on.
-- Features a #A294F9 colour throughout.
+- Features #A294F9 colour throughout.
 - Has a sticky design, keeping it at the top.
 - Features a logo on the left.
 - The navigation was implemented from Bootstrap and then heavily modified. 
 
 ### Home Page
 
+Here are brief points that describe the homepage (index.html)
+
 - Is presented to offer the most information, without being overbearing.
-- describes the business purpose in the header, sub header and first paragraphs.
-- Features a hero image that is friendly and captivating.
-- CTA of 'Book Now' opens a page to book or to contact the business.
-- Features colours of #F5EFFF and #E5D9F2 and white.
-- The images are modified to appear friendly and show dogs enjoying themselves.
-- There is a modified carousel at the bottom, which hides the images to only the text is displayed, showing reviews. 
+- It describes the business' purpose in the header, sub header and first paragraphs.
+- It features a hero image that is friendly and captivating.
+- It has a CTA of 'Book Now' which opens a page to book (or contact) the business.
+- It features colours #F5EFFF, #E5D9F2 and white.
+- There are modified images to appear friendly and show dogs enjoying themselves.
+- There is a modified carousel at the bottom, which hides the images, only showing the text that is displayed. 
 - The 'Learn More' buttons are implemented from Bootstrap and modified. 
 
 ### Footer 
+
+Brief points on the footer:
 
 - Features a colour of #A294F9.
 - Includes links to social media.
@@ -103,6 +107,8 @@ The nav. bar:
 
 ### Services Page
 
+Brief points on the services.html page:
+
 - Like all pages (except succes.html), there is an eye-catching hero image.
 - There is a 'Book Now' CTA at the bottom of the page, offering the same features as the others.
 - Includes detailed descriptions of the services and what the benefits are.
@@ -110,12 +116,16 @@ The nav. bar:
 
 ### Book Now Page
 
+Brief points on the booking.html page:
+
 - Displays another captivating hero image.
 - The subheading is concise and to the point.
 - Features a form that requires fields to be filled out before submitting.
 - Includes an interactive map of where the business operates. 
 
 ### Success Page
+
+Brief points on the success.html page:
 
 - This page is only accessed once the form above is filled out and submitted.
 - There is not her image.
@@ -126,38 +136,40 @@ The nav. bar:
 
 ### Colour Scheme
 
-The palette of colours were chosen after doing a little research to find out which colours were specific to a trustworthy and friendly brand.
-The variations of easy and light blue reflect the calmness and welcoming tone of the business and what they stand for. The palette was discovered using 
+The palette of colours were chosen after doing a little research to find which would represent a trustworthy and friendly brand.
+The variations of light blue reflect the calmness and welcoming tone of the business and what they stand for. The palette was discovered using 
 Color Hunt. [Here is the exact link](https://colorhunt.co/palette/f5efffe5d9f2cdc1ffa294f9) to the palette.
 
 The colours mainly used were:
 
-![Picture of the colours used](assets/images/screenshot-of-colours.jpg)
+![Picture of the colours used](assets/images/screenshot-of-colours.jpeg)
 
 ### Typography 
 
-- Header Font: The font used for all headers was 'Cabin Sketch', imported from Google fonts.
+Text was written in fonts taken from 'Google Fonts':
+
+- Header Font: The font used for all headers was 'Cabin Sketch'.
   This font was consistent with the brand tone (friendly, calm, playful).
 
 - Paragraph Font: The font for regular text is 'Outfit', which is also calm but contrasting to the header font.
 
 ### Imagery 
 
-- All images were sources from ![Dreamstime](https://www.dreamstime.com/?gad_source=1&gad_campaignid=22463944440&gbraid=0AAAAA_ZeP4BR30TPCyxZl7KqV3DrTOPEC&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfjWCeCw3mx6ZqAVDyNDhsNlTlGrZAGthEoQVywDaRvWlPoYwbvHWUgaAuIaEALw_wcB#res56964943)
-- The contact/booking page includes a map implemented from Google that is interactive.
+- All images were sources from [Dreamstime](https://www.dreamstime.com/?gad_source=1&gad_campaignid=22463944440&gbraid=0AAAAA_ZeP4BR30TPCyxZl7KqV3DrTOPEC&gclid=Cj0KCQjwxJvBBhDuARIsAGUgNfjWCeCw3mx6ZqAVDyNDhsNlTlGrZAGthEoQVywDaRvWlPoYwbvHWUgaAuIaEALw_wcB#res56964943)
+- The contact/booking page includes a map, where code was taken from Google and implemented.
 
-### Wireframes 
+### Wire Frames 
 
 Mock-ups of the home page, services and booking page were created using Balsamiq. They were created for mobiles, tablets and desktops. 
 
-- ![Wireframes](https://balsamiq.cloud/sb2mrbr/ppikq61/rA886)
+All wire frames will be found here:
+
+- [Wireframes](https://balsamiq.cloud/sb2mrbr/ppikq61/rA886)
 
 ### Features to Implement
 
 In the future, I want to implement Java Script and create more pages for the site. 
 The goal is to use it as a template to improve my front-end ability. 
-
-I would like to create an interactive form that modifies and adds new questions in real-time as the user progresses through it by filling in the form. 
 
 ## Technologies Used
 
@@ -195,14 +207,14 @@ This website was developed in VS code and deployed to Github pages.
 
 To deploy this site, follow these steps:
 
-1. You must first navigate to the open the repository ![here](https://github.com/tstyer/Folkestone-Dogs)
-2. Then you will need to click on the 'settings' tab.
-3. From there, navigate to the 'pages' tab.
+1. You must first navigate to the repository [here](https://github.com/tstyer/Folkestone-Dogs)
+2. Then, you will need to click on the 'settings' button.
+3. From there, navigate to the 'pages' button.
 4. Under 'Source', click the drop-down menu.
 5. Select 'Main', and click 'Save'.
 6. Once 'Main' has been selected and saved, a message will appear saying that 'Your site has been published'.
 
-The live site can be found ![here](https://tstyer.github.io/Folkestone-Dogs/)
+The live site can be found [here](https://tstyer.github.io/Folkestone-Dogs/)
 
 ### Making a Local Clone
 
@@ -210,15 +222,25 @@ You can create a local repository by cloning this one. Any changes you make to t
 
 Here are the steps to follow:
 
-1. Log in to your Github account and navigate to my account (tstyer).
-2. Choose the 'Folkestone Dogs' repository.
-3. Under the repository, click code.
-4. Copy the repository code to the clip board.
-5. Then, in VS code, click on the ‘Source Control’ icon on the left.
-6. From there, select ‘Clone Repository’.
-7. Then, paste the URL in the search bar at the top.
-8. Select the location for where you want to store the files.
-9. Finally, choose ‘open in new window’.
+1. Log in to your GitHub account and navigate to my profile (tstyer).
+
+2. Open the ‘Folkestone Dogs’ repository.
+
+3. Click the green Code button near the top right of the repository page.
+
+4. In the drop-down, copy the HTTPS URL.
+
+5. Open Visual Studio Code.
+
+6. Click the Source Control icon (or press Ctrl+Shift+G / Cmd+Shift+G).
+
+7. Click Clone Repository (or press F1, then search and select "Git: Clone").
+
+8. When prompted, paste the copied repository URL into the input box at the top.
+
+9. Choose a folder on your local machine where you want the repository to be saved.
+
+10. Once cloning is complete, VS Code will ask if you want to open the repository in a new window. Select Yes or Open in a New Window.
 
 ## Testing
 
@@ -246,7 +268,7 @@ Here are the steps to follow:
 
    a. All the descriptions are clear and simple.
 
-   b. They are easy to understand and they adhere to the main desires of the target audience.
+   b. They are easy to understand, and adhere to the main desires of the target audience.
 
 5. “As a user, I want to find the contact details easily if I have any additional questions.”
 
@@ -260,9 +282,9 @@ Here are the steps to follow:
 
    b. Clear instructions lead the user to the booking from the other pages.
 
-7. “As a small business, I would like to easily find information that states if they can support my requirements for a large number of dogs.”
+7. “As a small business, I would like to easily find information that states if they can support my requirements for plenty of dogs.”
 
-    a. The services section clearly states that the business can support a large number of dogs and meet the requirements of other businesses.
+    a. The services section clearly states that the business can support plenty of dogs and meet the requirements of other businesses.
 
 8. “As a small business, I would like to see if they are qualified by professional bodies and if they have plenty of experience.”
 
@@ -270,7 +292,7 @@ Here are the steps to follow:
 
 ### HTML Validation 
 
-The HTML of all the pages was validated through the ![W3C Validator](https://validator.w3.org/#validate_by_input)
+The HTML of all the pages was validated through the [W3C Validator](https://validator.w3.org/#validate_by_input)
 
 #### index.html 
 
@@ -331,11 +353,11 @@ See the latest results, below:
 
 ![User testing screenshot](assets/images/User-testing.png)
 
-These user tests confirm that the website is fully functional and user-friendly, providing a seamless experience for visitors.
+These user tests confirm the website is fully functional and user-friendly, providing a seamless experience for visitors.
 
 ### Responsiveness
 
-The website was tested on Microsoft Edge and Chrome across different sizes for responsiveness.
+The website was tested on Microsoft Edge, Chrome, Firefox and Internet Explorer across different sizes for responsiveness.
 
 Mobiles: 
 
@@ -349,8 +371,8 @@ Tablets:
 
 Desktops:
 
-- Laptop (1024px's)
-- Desktop (1440px's)
+- Laptop (1024px's +)
+- Desktop (1440px's +)
 
 ### Browser Compatability
 
@@ -360,7 +382,7 @@ The website was tested on Microsoft Edge, Chrome, Internet Explorer, and Firefox
 
 ### Carousel Not Displaying Text
 
-Issue: When first implementing the carousel, the paragraph text did not show.
+Issue: When first implementing the carousel, the paragraph text did not show on smaller screens.
 Fix: Added a media query that shrinks the font size to smaller.
 
 ### Homepage Images Uneaven
@@ -386,7 +408,7 @@ Fix: By selecting it in CSS, I set the width to 100%.
 ### Navigation Bar Burger 
 
 Issue: Nav. Bar displaying on the wrong side (right) when screen size minimised. 
-Fix: This was due to the placement of the anchor tag (Folkestone Dogs) positioning. I moved it to be placed next to the end of the buttons closing tag.
+Fix: This was due to the placement of the anchor tag (Folkestone Dogs). I moved it next to the end of the buttons closing tag.
 
 ## Validation Errors
 
@@ -408,9 +430,11 @@ Too many ID's were used, then removed as suggested.
 
 ## Image Testing
 
-After running Lighthouse, the images were clearly marked, and I learned that they were far too large. I then downloaded smaller versions. 
+After running Lighthouse, the images were clearly marked, and I learned they were far too large. I then downloaded smaller versions. 
 
 ## Credits
+
+A list of all the resources that were outsourced will be displayed here. 
 
 ### Media
 
@@ -428,15 +452,21 @@ After running Lighthouse, the images were clearly marked, and I learned that the
 
 #### Icons
 
-All icons were implemented using Font Awesome. 
+All icons were implemented using Font Awesome. You can find the link to Font Awesome [here](https://fontawesome.com/)
+
+### Google Maps
+
+I had sourced the map directly from Google, after finding a familiar location. I simply clicked on 'Share' within Google Maps, and imported the code from there. 
 
 ### Code
 
+The majority of the code is original, but some of which had been supplemented with Bootstrap. All of which had been heavily modified to suit the structure and colour of Folkestone Dogs. 
+
 #### Boostrap
 
-Copde imported from Bootstrap:
+Code imported from Bootstrap:
 
-1. All buttons.
+1. Some buttons.
 
 2. Booking/Contact form.
 
@@ -444,13 +474,17 @@ Copde imported from Bootstrap:
 
 4. Carousel.
 
-#### Google Map
-
-The Google map used was imported from Google.
-
 ### Colours
 
-All colours were imported from Color Hunt. 
+All colours were imported from Color Hunt. You can find a link to Color Hunt [here](https://colorhunt.co/)
+
+##Conclusion
+
+This project was a steep learning curve and I thoroughly enjoyed the process. It also helped me understand my passion for front-end development and is what I will persue moving forward. 
+
+I have learned about areas of improvement, and will impelemt changes to this website as I progress. 
+
+Help from tutors and my mentor was second-to-none, and this makes me feel confident going into the next projects. 
 
 
 
