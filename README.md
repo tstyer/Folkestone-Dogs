@@ -1,6 +1,6 @@
 ﻿# Folkestone-Dogs
  
-See the live version of Folkestone Dogs, here: 
+See the live version of Folkestone Dogs, here: ![Folkestone Dogs Deployed site](https://tstyer.github.io/Folkestone-Dogs/)
 
 ![Header for Folkestone Dogs website](assets/images/READMEHeader.png)
 
@@ -127,7 +127,7 @@ The nav. bar:
 ### Colour Scheme
 
 The palette of colours were chosen after doing a little research to find out which colours were specific to a trustworthy and friendly brand.
-The variations of easy and light blue reflect the calmness and welcoming tone of the business and what they stand for. The pallete was discovered using 
+The variations of easy and light blue reflect the calmness and welcoming tone of the business and what they stand for. The palette was discovered using 
 Color Hunt. [Here is the exact link](https://colorhunt.co/palette/f5efffe5d9f2cdc1ffa294f9) to the palette.
 
 The colours mainly used were:
@@ -270,37 +270,37 @@ Here are the steps to follow:
 
 ### HTML Validation 
 
-The HTML of all the pages were validated through the ![W3C Validator](https://validator.w3.org/#validate_by_input)
+The HTML of all the pages was validated through the ![W3C Validator](https://validator.w3.org/#validate_by_input)
 
 #### index.html 
 
 No errors or warnings to show:
 
-[![Screenshot of index.html with no errors](/assets/images/screenshot-of-validated-index.html)]
+![Screenshot of index.html with no errors](assets/images/screenshot-of-validated-index.html.png)
 
 #### booking.html 
 
 No errors or warnings to show:
 
-[![Screenshot of booking page code](/assets/images/screenshot-of-booking.html-validator)]
+![Screenshot of booking page code](assets/images/screnshot-of-booking.html-validator.jpeg)
 
 #### services.html
 
 No errors or warnings to show:
 
-[![Screenshot of services.html code](/assets/images/screenshot-of-services.html-code)]
+![Screenshot of services.html code](assets/images/screenshot-of-services.html-code.jpeg)
 
 #### success.html 
 
-No erors or warnings to show:
+No errors or warnings to show:
 
-[![Screenshot of success.html code](/assets/images/screenshot-of-succes.html-code)]
+![Screenshot of success.html code](assets/images/screenshot-of-success.html-code.jpeg)
 
 ### CSS Validation
 
 No errors or warnings to show:
 
-[![Screenshot of CS code](/assets/images/css-validation.png)
+![Screenshot of CS code](assets/images/CSS-validation.jpeg)
 
 ### Lighthouse
 
@@ -313,11 +313,29 @@ See the latest results, below:
 
 #### index.html
 
+![Home Page results](assets/images/index.html-lighthouse.png)
 
+#### success.html
 
+![Success Page](assets/images/success.html-lighthouse.png)
 
+#### services.html
+
+![Services Page](assets/images/services.html-lighthouse.png)
+
+#### booking.html
+
+![Booking Page](assets/images/booking.html-lighthouse.png)
 
 ### Manual Testing
+
+![User testing screenshot](assets/images/User-testing.png)
+
+These user tests confirm that the website is fully functional and user-friendly, providing a seamless experience for visitors.
+
+### Responsiveness
+
+- 
 
 
 
