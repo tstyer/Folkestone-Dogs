@@ -26,7 +26,6 @@ a {
 }
 
 
-
 .header-style {
     min-height: 500px;
     background-size: cover;
@@ -34,13 +33,16 @@ a {
     padding: 5px;
 }
 
+
 body {
     background-color: #CDC1FF;
 }
 
+
 .colour-1 {
     background-color:#F5EFFF;
 }
+
 
 .colour-2 {
     background-color: #E5D9F2;
@@ -52,9 +54,11 @@ h1, h2, h3 {
     margin: 10px;
 }
 
+
 .underline:hover {
     text-decoration: underline;
 }
+
 
 p {
     font-family: 'Outfit', serif;
@@ -62,10 +66,12 @@ p {
     margin-bottom: 0px;
 }
 
+
 footer {
     background-color: #A294F9;
     padding-top: 7px;
 }
+
 
 i {
     margin-bottom: 20px;
@@ -73,13 +79,16 @@ i {
     max-height: 25px;
 }
 
+
 .fa-facebook-f {
     padding-right: 10px;
 }
 
+
 .fa-x-twitter {
     padding-left: 10px;
 }
+
 
 .btn {
     background-color: #A294F9;
@@ -200,6 +209,14 @@ form .btn {
     padding: 0px 30px;
 }
 
+.home-h2 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 200;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0px 40px;
+}
+
 
 
 /* Success page */
@@ -219,16 +236,6 @@ form .btn {
 
 
 
-.home-h2 {
-    font-family: 'Outfit', sans-serif;
-    font-weight: 200;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    padding: 0px 40px;
-}
-
-
-
 
 /* Container heights */
 
@@ -243,6 +250,7 @@ form .btn {
 #services-training {
     min-height: 335px;
 }
+
 
 
 
