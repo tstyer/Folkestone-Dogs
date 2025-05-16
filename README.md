@@ -60,13 +60,64 @@ through simple and clean descriptions that stand out from their background.
 
 Other Sit Owner Goals:
 - To boost online bookings by inspiring the reader to book or contact us.
-- To build trust with potential future clients via social proof, acheivements, images and descriptions.
-- To increase daycare benefits by emphasising socialising, behaviour, excersie benefits.
+- To build trust with potential future clients via social proof, achievements, images and descriptions.
+- To increase daycare benefits by emphasising socialising, behaviour, exercise benefits.
 - To increase social media following by easily discoverable links.
-- To offer a clear contact form and clearly displays a 'Success' page once subtmitted.
+- To offer a clear contact form and clearly displays a 'Success' page once submitted.
 
 ## Features
 
+### Nav. Bar
 
+The navigation bar in the website is consistent across all web pages and has a responsive design with colour-changing feedback. 
 
+The nav. bar:
 
+- Includes links to all the essential web pages, except the seccess.html page.
+- Includes a responsive, colour change to white when you hover over the links.
+- Underlines the current page you are on.
+- Features a #A294F9 colour throughout.
+- Has a sticky design, keeping it at the top.
+- Features a logo on the left.
+- The navigation was implemented from Bootstrap and then heavily modified. 
+
+### Home Page
+
+- Is presented to offer the most information, without being overbearing.
+- describes the business purpose in the header, sub header and first paragraphs.
+- Features a hero image that is friendly and captivating.
+- CTA of 'Book Now' opens a page to book or to contact the business.
+- Features colours of #F5EFFF and #E5D9F2 and white.
+- The images are modified to appear friendly and show dogs enjoying themselves.
+- There is a modified carousel at the bottom, which hides the images to only the text is displayed, showing reviews. 
+- The 'Learn More' buttons are implemented from Bootstrap and modified. 
+
+### Footer 
+
+- Features a colour of #A294F9.
+- Includes links to social media.
+- Displays useful contact information on every page.
+- Offers a responsive, colour-changing design.
+- Offers a link to 'Go Back Home' when on any other page (except index.html).
+- Features a copyright notice at the bottom of the footer to display ownership and year. 
+
+### Services Page
+
+- Like all pages (except succes.html), there is an eye-catching hero image.
+- There is a 'Book Now' CTA at the bottom of the page, offering the same features as the others.
+- Includes detailed descriptions of the services and what the benefits are.
+- Includes the footer.
+
+### Book Now Pages
+
+- Displays another captivating hero image.
+- The subheading is concise and to the point.
+- Features a form that requires fields to be filled out before submitting.
+- Includes an interactive map of where the business operates. 
+
+### Success Page
+
+- This page is only accessed once the form above is filled out and submitted.
+- There is not her image.
+- There is a single, miedium-sized image of which is positive and in tone.
+- There is a simple message, displayed in the constant font throughout. 
