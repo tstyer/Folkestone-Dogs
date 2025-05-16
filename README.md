@@ -1,4 +1,4 @@
-﻿# Folkestone-Dogs
+﻿# Folkestone Dogs
  
 See the live version of Folkestone Dogs, here: [Folkestone Dogs Deployed site](https://tstyer.github.io/Folkestone-Dogs/)
 
