@@ -225,34 +225,48 @@ Here are the steps to follow:
 ### Client Stories 
 
 1. "As a user, I want a user-friendly experience when navigating the website."
+
    a. The navigation is clean and simple. There is also a further ‘Back to Home’ button at the bottom of every page, so the user doesn’t have to scroll back up. 
+
    b. The navigation is consistent across all pages and easy to understand.
 
-2. “As a user, I want to see social proof and testimonials of other users who have had a great experience with Folkestone Dogs.”
+3. “As a user, I want to see social proof and testimonials of other users who have had a great experience with Folkestone Dogs.”
+
    a. There is a carousel at the bottom of the home page that shows customer reviews.
 
-3. “As a user, I want to experience a simple and intuitive layout that makes it easy to find the information I am looking for.”
+5. “As a user, I want to experience a simple and intuitive layout that makes it easy to find the information I am looking for.”
+
    a. The subheadings are clear and distinguishable from the other content.
+
    b. Pictures and content are consistent, but not overwhelming.
+
    c. Headings and subheadings display an underline when hovered over.
 
-4. “As a user, I want to read engaging but simple descriptions that describe the benefits of each service.”
+7. “As a user, I want to read engaging but simple descriptions that describe the benefits of each service.”
+
    a. All the descriptions are clear and simple.
+
    b. They are easy to understand and they adhere to the main desires of the target audience.
 
-5. “As a user, I want to find the contact details easily if I have any additional questions.”
+9. “As a user, I want to find the contact details easily if I have any additional questions.”
+
    a. Throughout the website, there are links (‘Book’) to the book/contact page. This is clearly stated in the subheading.
+
    b. The footer is constant, with a message that welcomes the user to send them a message or call the company if they have questions.
 
-6. “As a user, I want to find the booking form easily, so that I can book the specific service I am interested in.”
+11. “As a user, I want to find the booking form easily, so that I can book the specific service I am interested in.”
+
    a. The booking form is easily found if you navigate from any of the pages.
+
    b. Clear instructions lead the user to the booking from the other pages.
 
-7. “As a small business, I would like to easily find information that states if they can support my requirements for a large number of dogs.”
-   a. The services section clearly states that the business can support a large number of dogs and meet the requirements of other businesses.
+13. “As a small business, I would like to easily find information that states if they can support my requirements for a large number of dogs.”
 
-8. “As a small business, I would like to see if they are qualified by professional bodies and if they have plenty of experience.”
-   a. The homepage clearly advertises their insurance and their professional qualifications and experience.
+    a. The services section clearly states that the business can support a large number of dogs and meet the requirements of other businesses.
+
+15. “As a small business, I would like to see if they are qualified by professional bodies and if they have plenty of experience.”
+
+    a. The homepage clearly advertises their insurance and their professional qualifications and experience.
 
 ### HTML Validation 
 
