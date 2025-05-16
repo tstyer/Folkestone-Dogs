@@ -286,8 +286,24 @@ No erors or warnings to show:
 
 No errors or warnings to show:
 
-[![Screenshot of CS code](/assets/images/css-validation)
+[![Screenshot of CS code](/assets/images/css-validation.png)
 
+### Lighthouse
+
+I had done testing with Lighthouse throughout the project to ensure users have the best experience. After the initial tests on all pages, I spoke with tutors and it was clear that
+I needed to decrease imager sizes and minimise CSS. 
+
+However, having completed the recommended tasks, the results were still not optimal. I have noted this, and so in the future I will learn how to achieve optimal performance and update this website as I continue my learning. 
+
+See the latest results, below:
+
+#### index.html
+
+
+
+
+
+### Manual Testing
 
 
 
