@@ -2,7 +2,7 @@
  
 See the live version of Folkestone Dogs, here: 
 
-![Header for Folkestone Dogs website](/assets/images/READMEHeader.png)
+[![Header for Folkestone Dogs website](/assets/images/READMEHeader.png)]
 
 ## Introduction
 
@@ -183,9 +183,116 @@ I would like to create an interactive form that modifies and adds new questions 
 
 - Color Hunt: Used for all the colours on the site. 
 
-- W3C: Used to scan the html and CSS code for validation. 
+- W3C: Used to scan the HTML and CSS code for validation. 
 
-- Google Chrome Lighthouse: For accessbility, SEO, responsiveness and best practices.
+- Google Chrome Lighthouse: For accessibility, SEO, responsiveness and best practices.
+
+## Deployment 
+
+### Deplying to Github Pages
+
+This website was developed in VS code and deployed to Github pages. 
+
+To deploy this site, follow these steps:
+
+1. You must first navigate to the open the repository ![here](https://github.com/tstyer/Folkestone-Dogs)
+2. Then you will need to click on the 'settings' tab.
+3. From there, navigate to the 'pages' tab.
+4. Under 'Source', click the drop-down menu.
+5. Select 'Main', and click 'Save'.
+6. Once 'Main' has been selected and saved, a message will appear saying that 'Your site has been published'.
+
+The live site can be found ![here](https://tstyer.github.io/Folkestone-Dogs/)
+
+### Making a Local Clone
+
+You can create a local repository by cloning this one. Any changes you make to the local copy will not affect the original one. 
+
+Here are the steps to follow:
+
+1. Log in to your Github account and navigate to my account (tstyer).
+2. Choose the 'Folkestone Dogs' repository.
+3. Under the repository, click code.
+4. Copy the repository code to the clip board.
+5. Then, in VS code, click on the ‘Source Control’ icon on the left.
+6. From there, select ‘Clone Repository’.
+7. Then, paste the URL in the search bar at the top.
+8. Select the location for where you want to store the files.
+9. Finally, choose ‘open in new window’.
+
+## Testing
+
+### Client Stories 
+
+1. "As a user, I want a user-friendly experience when navigating the website."
+   a. The navigation is clean and simple. There is also a further ‘Back to Home’ button at the bottom of every page, so the user doesn’t have to scroll back up. 
+   b. The navigation is consistent across all pages and easy to understand.
+
+2. “As a user, I want to see social proof and testimonials of other users who have had a great experience with Folkestone Dogs.”
+   a. There is a carousel at the bottom of the home page that shows customer reviews.
+
+3. “As a user, I want to experience a simple and intuitive layout that makes it easy to find the information I am looking for.”
+   a. The subheadings are clear and distinguishable from the other content.
+   b. Pictures and content are consistent, but not overwhelming.
+   c. Headings and subheadings display an underline when hovered over.
+
+4. “As a user, I want to read engaging but simple descriptions that describe the benefits of each service.”
+   a. All the descriptions are clear and simple.
+   b. They are easy to understand and they adhere to the main desires of the target audience.
+
+5. “As a user, I want to find the contact details easily if I have any additional questions.”
+   a. Throughout the website, there are links (‘Book’) to the book/contact page. This is clearly stated in the subheading.
+   b. The footer is constant, with a message that welcomes the user to send them a message or call the company if they have questions.
+
+6. “As a user, I want to find the booking form easily, so that I can book the specific service I am interested in.”
+   a. The booking form is easily found if you navigate from any of the pages.
+   b. Clear instructions lead the user to the booking from the other pages.
+
+7. “As a small business, I would like to easily find information that states if they can support my requirements for a large number of dogs.”
+   a. The services section clearly states that the business can support a large number of dogs and meet the requirements of other businesses.
+
+8. “As a small business, I would like to see if they are qualified by professional bodies and if they have plenty of experience.”
+   a. The homepage clearly advertises their insurance and their professional qualifications and experience.
+
+### HTML Validation 
+
+The HTML of all the pages were validated through the ![W3C Validator](https://validator.w3.org/#validate_by_input)
+
+#### index.html 
+
+No errors or warnings to show:
+
+[![Screenshot of index.html with no errors](/assets/images/screenshot-of-validated-index.html)]
+
+#### booking.html 
+
+No errors or warnings to show:
+
+[![Screenshot of booking page code](/assets/images/screenshot-of-booking.html-validator)]
+
+#### services.html
+
+No errors or warnings to show:
+
+[![Screenshot of services.html code](/assets/images/screenshot-of-services.html-code)]
+
+#### success.html 
+
+No erors or warnings to show:
+
+[![Screenshot of success.html code](/assets/images/screenshot-of-succes.html-code)]
+
+### CSS Validation
+
+No errors or warnings to show:
+
+[![Screenshot of CS code](/assets/images/css-validation)
+
+
+
+
+
+
 
 
 
