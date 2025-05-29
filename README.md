@@ -2,7 +2,7 @@
  
 See the live version of Folkestone Dogs, here: [Folkestone Dogs Deployed site](https://tstyer.github.io/Folkestone-Dogs/)
 
-![Header for Folkestone Dogs website](assets/images/READMEHeader.png)
+![Header for Folkestone Dogs website](assets/images/home-page-header-as-readme-header.png)
 
 ## Table of Contents
 
@@ -452,7 +452,7 @@ No errors or warnings to show:
 
 No errors or warnings to show:
 
-![Screenshot of CS code](assets/images/CSS-validation.jpeg)
+![Screenshot of CS code](assets/images/css-validation.jpeg)
 
 ### Lighthouse
 
