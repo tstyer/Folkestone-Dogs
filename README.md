@@ -91,6 +91,8 @@ They'll be looking for reliability in the business by different means, and to fi
 #### First-Time Visitors
 
 1. As a first-time visitor, I want to see why I should choose Folkestone dogs over another business.
+   On the first page, I have given all the benefits in an easy-to-read manner, complimented by clear images:
+   ![Screenshot evidence for first user story]("assets\images\user-stories-image-1.png")
 2. As a first time visitor, I want to read about their services, experience and qualifications on the first page.
 3. As a first-time visitor, I want to easily navigate to any contact information or page.
 4. As a first-time visitor, I want to see where the business is located.
