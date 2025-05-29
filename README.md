@@ -452,7 +452,7 @@ No errors or warnings to show:
 
 No errors or warnings to show:
 
-![Screenshot of CS code](assets/images/css-validation.jpeg)
+![Screenshot of CSS code](assets/images/css-validation.jpeg)
 
 ### Lighthouse
 
