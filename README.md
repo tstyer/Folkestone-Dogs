@@ -124,15 +124,64 @@ They'll be looking for reliability in the business by different means, and to fi
 
    There are 'Book Now' buttons throughout the website that are easy to find and are responsive:
 
+   Homepage:
+
    ![Screenshoot of 'Book Now' button on homepage](assets/images/book-now-button-hompage-1.png)
    
    ![Second screenshot of 'Book Now' button on homepage](assets/images/book-now-button-hompage-2.png)
+
+   Services Page:
    
    ![Screenshot of 'Book Now' on services page](assets/images/services-page-booking-button.png)
    
 2. As a returning visitor, I want to easily find their social media links to see their social proof with current clients.
+
+   The footer includes social media links on every page, which are engaging:
+
+   ![Screenshot of footer](assets/images/footer-social-links-image.png)
+   
 3. As a returning visitor, I want to see compelling images.
-4. As a returning visitor, I'd like to easily access and navigate the site via a mobile or tablet. 
+
+   There are compelling images throughout the website:
+
+   Homepage:
+   
+   ![Screenshot of home page images](assets/images/images-home-page.png)
+
+   Services:
+
+   ![Screenshot of Services Page images](assets/images/screenshot-of-services-images.png)
+
+   Success:
+
+   ![Screenshot of success page image](assets/images/screenshot-of-success-page-image.png)
+   
+4. As a returning visitor, I'd like to easily access and navigate the site via a mobile or tablet.
+
+   The website is responsive on mobile, as seen in the below image, which shows the drop-down navigation bar on mobiles:
+
+   ![Screenshot of mobile navigation bar](assets/images/mobile-drop-down-nav-and-button.png)
+
+   'Learn More' buttons on mobiles:
+
+   ![Screenshot of 'learn more' buttons on hompage](assets/images/learn-more-buttons-mobile.png)
+
+   Footer on mobiles:
+
+   ![Screenshot of Footer on mobiles](assets/images/screenshot-footer-mobiles.png)
+
+   Navigation bar for tablets:
+
+   ![Screenshot of navigation bar for tablets](assets/images/navigation-tablet.png)
+
+   Footer for tablets:
+
+   ![Screenshot of footer for tablets](assets/images/tablet-footer.png)
+
+   Booking form and map for tablets:
+
+   ![Screenshot of booking form and map](assets/images/booking-form-and-map-tablet.png)
+   
 
 ### Site Owner Goals
 
