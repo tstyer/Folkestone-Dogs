@@ -90,33 +90,14 @@ They'll be looking for reliability in the business by different means, and to fi
 
 #### First-Time Visitors
 
-1. As a first-time visitor, I want to see why I should choose Folkestone dogs over another business.
-   
-   On the first page, I have given all the benefits in an easy-to-read manner, complimented by clear images:
-   ![Screenshot evidence for first user story](assets/images/user-stories-image-1.png)
+1. As a first-time visitor, I want to see why I should choose Folkestone dogs over another business.   
   
 2. As a first time visitor, I want to read about their services, experience and qualifications on the first page.
    
-   On the first page, the previous screenshot taken addresses this user requirement too:
-   ![Screenshot evidence for first user story](assets/images/user-stories-image-1.png)
-   
 3. As a first-time visitor, I want to easily navigate to any contact information or page.
-
-   Throughout the website, there is clear and intuitive navigation, where the reader can easily click 'Book now' to contact the business. The navigation bar is also consistent, and the footer offers additional 
-   navigation back to the homepage:
-   
-   a. Homepage navigation bar: ![Picture showing the navigation bar on the homepage](assets/images/homepage-navigation-bar.png)
-   
-   b. Service page navigation bar: ![Picture of the service page navigation](assets/images/service-page-navigation.png)
-   
-   c. Booking page navigation bar: ![Picture of booking page navigation](assets/images/booking-page-navigation.png)
-   
-   d. Footer on services and booking pages offer a 'Go Back Home' button: ![Picture of Footer on services and booking page](assets/images/booking-and-services-footer.png)
-   
-4. As a first-time visitor, I want to see where the business is located.
-   
-   On the booking / contact page, there is a clear address and interactive map, so the reader can easily find the business:
-   ![Picture of address and map](assets/images/picture-of-map.png)
+ 
+4. As a first-time visitor, I want to see where the business is located.   
+  
 
 #### As a Returning Visitor
 
@@ -124,15 +105,7 @@ They'll be looking for reliability in the business by different means, and to fi
 
    There are 'Book Now' buttons throughout the website that are easy to find and are responsive:
 
-   Homepage:
-
-   ![Screenshoot of 'Book Now' button on homepage](assets/images/book-now-button-hompage-1.png)
    
-   ![Second screenshot of 'Book Now' button on homepage](assets/images/book-now-button-hompage-2.png)
-
-   Services Page:
-   
-   ![Screenshot of 'Book Now' on services page](assets/images/services-page-booking-button.png)
    
 2. As a returning visitor, I want to easily find their social media links to see their social proof with current clients.
 
@@ -382,43 +355,70 @@ Here are the steps to follow:
 
    b. The navigation is consistent across all pages and easy to understand.
 
+   - Homepage navigation bar: ![Picture showing the navigation bar on the homepage](assets/images/homepage-navigation-bar.png)
+   
+   - Service page navigation bar: ![Picture of the service page navigation](assets/images/service-page-navigation.png)
+   
+   - Booking page navigation bar: ![Picture of booking page navigation](assets/images/booking-page-navigation.png)
+   
+   - Footer on services and booking pages offer a 'Go Back Home' button: ![Picture of Footer on services and booking page](assets/images/booking-and-services-footer.png)
+
 2. “As a user, I want to see social proof and testimonials of other users who have had a great experience with Folkestone Dogs.”
 
    a. There is a carousel at the bottom of the home page that shows customer reviews.
 
-3. “As a user, I want to experience a simple and intuitive layout that makes it easy to find the information I am looking for.”
+4. “As a user, I want to experience a simple and intuitive layout that makes it easy to find the information I am looking for.”
 
    a. The subheadings are clear and distinguishable from the other content.
 
    b. Pictures and content are consistent, but not overwhelming.
 
    c. Headings and subheadings display an underline when hovered over.
+   
+   ![Screenshot evidence for first user story](assets/images/user-stories-image-1.png)
 
-4. “As a user, I want to read engaging but simple descriptions that describe the benefits of each service.”
+5. “As a user, I want to read engaging but simple descriptions that describe the benefits of each service.”
 
    a. All the descriptions are clear and simple.
 
-   b. They are easy to understand, and adhere to the main desires of the target audience.
+   
 
-5. “As a user, I want to find the contact details easily if I have any additional questions.”
+6. “As a user, I want to find the contact details easily if I have any additional questions.”
 
    a. Throughout the website, there are links (‘Book’) to the book/contact page. This is clearly stated in the subheading.
 
-   b. The footer is constant, with a message that welcomes the user to send them a message or call the company if they have questions.
+   Homepage:
 
-6. “As a user, I want to find the booking form easily, so that I can book the specific service I am interested in.”
+   ![Screenshoot of 'Book Now' button on homepage](assets/images/book-now-button-hompage-1.png)
+   
+   ![Second screenshot of 'Book Now' button on homepage](assets/images/book-now-button-hompage-2.png)
+
+   Services Page:
+   
+   ![Screenshot of 'Book Now' on services page](assets/images/services-page-booking-button.png)
+
+   b. The footer is consistent, with a message that welcomes the user to send them a message or call the company if they have questions.
+
+   ![Screenshot of footer](assets/images/footer-social-links-image.png)
+
+   c. On the booking / contact page, there is a clear address and interactive map, so the reader can easily find the business:
+   
+   ![Picture of address and map](assets/images/picture-of-map.png)
+
+8. “As a user, I want to find the booking form easily, so that I can book the specific service I am interested in.”
 
    a. The booking form is easily found if you navigate from any of the pages.
 
    b. Clear instructions lead the user to the booking from the other pages.
 
-7. “As a small business, I would like to easily find information that states if they can support my requirements for plenty of dogs.”
+9. “As a small business, I would like to easily find information that states if they can support my requirements for plenty of dogs.”
 
     a. The services section clearly states that the business can support plenty of dogs and meet the requirements of other businesses.
 
-8. “As a small business, I would like to see if they are qualified by professional bodies and if they have plenty of experience.”
+10. “As a small business, I would like to see if they are qualified by professional bodies and if they have plenty of experience.”
 
-    a. The homepage clearly advertises their insurance and their professional qualifications and experience.
+    a. The homepage clearly advertises their insurance and their professional qualifications and experience:
+    ![Screenshot evidence for first user story](assets/images/user-stories-image-1.png)
 
 ### HTML Validation 
 
