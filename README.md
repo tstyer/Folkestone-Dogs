@@ -92,17 +92,21 @@ They'll be looking for reliability in the business by different means, and to fi
 
 1. As a first-time visitor, I want to see why I should choose Folkestone dogs over another business.
    On the first page, I have given all the benefits in an easy-to-read manner, complimented by clear images:
-   ![Screenshot evidence for first user story](assets\images\user-stories-image-1.png)
+   [Screenshot evidence for first user story](assets\images\user-stories-image-1.png)
 2. As a first time visitor, I want to read about their services, experience and qualifications on the first page.
    On the first page, the previous screenshot taken addresses this user requirement too:
-   ![Screenshot evidence for first user story](assets\images\user-stories-image-1.png)
+   [Screenshot evidence for first user story](assets\images\user-stories-image-1.png)
 3. As a first-time visitor, I want to easily navigate to any contact information or page.
    Throughout the website, there is clear and intuitive navigation, where the reader can easily click 'Book now' to contact the business. The navigation bar is also consistent, and the footer offers additional 
    navigation back to the homepage:
-   a. Homepage navigation bar: ![Picture showing the navigation bar on the homepage](images\homepage-navigation-bar.png)
-   b. Service page navigation bar: ![Picture of the service page navigation](assets\images\service-page-navigation.png)
-   c. Booking page navigation bar: ![Picture of booking page navigation](assets\images\booking-page-navigation.png)
-   d. Footer on services and booking pages offer a 'Go Back Home' button: ![Picture of Footer on services and booking page](assets\images\booking-and-services-footer.png)
+   a. Homepage navigation bar: [Picture showing the navigation bar on the homepage](images\homepage-navigation-bar.png)
+   
+   b. Service page navigation bar: [Picture of the service page navigation](assets\images\service-page-navigation.png)
+   
+   c. Booking page navigation bar: [Picture of booking page navigation](assets\images\booking-page-navigation.png)
+   
+   d. Footer on services and booking pages offer a 'Go Back Home' button: [Picture of Footer on services and booking page](assets\images\booking-and-services-footer.png)
+   
 4. As a first-time visitor, I want to see where the business is located.
    On the booking / contact page, there is a clear address and interactive map, so the reader can easily find the business:
    ![Picture of address and map](assets\images\picture-of-map.png)
