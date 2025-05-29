@@ -121,6 +121,15 @@ They'll be looking for reliability in the business by different means, and to fi
 #### As a Returning Visitor
 
 1. As a returning visitor, I want to easily navigate to their contact/booking page.
+
+   There are 'Book Now' buttons throughout the website that are easy to find and are responsive:
+
+   ![Screenshoot of 'Book Now' button on homepage](assets/images/book-now-button-hompage-1.png)
+   
+   ![Second screenshot of 'Book Now' button on homepage](assets/images/book-now-button-hompage-2.png)
+   
+   ![Screenshot of 'Book Now' on services page](assets/images/services-page-booking-button.png)
+   
 2. As a returning visitor, I want to easily find their social media links to see their social proof with current clients.
 3. As a returning visitor, I want to see compelling images.
 4. As a returning visitor, I'd like to easily access and navigate the site via a mobile or tablet. 
