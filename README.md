@@ -102,58 +102,12 @@ They'll be looking for reliability in the business by different means, and to fi
 #### As a Returning Visitor
 
 1. As a returning visitor, I want to easily navigate to their contact/booking page.
-
-   There are 'Book Now' buttons throughout the website that are easy to find and are responsive:
-
-   
    
 2. As a returning visitor, I want to easily find their social media links to see their social proof with current clients.
-
-   The footer includes social media links on every page, which are engaging:
-
-   ![Screenshot of footer](assets/images/footer-social-links-image.png)
    
 3. As a returning visitor, I want to see compelling images.
-
-   There are compelling images throughout the website:
-
-   Homepage:
-   
-   ![Screenshot of home page images](assets/images/images-home-page.png)
-
-   Services:
-
-   ![Screenshot of Services Page images](assets/images/screenshot-of-services-images.png)
-
-   Success:
-
-   ![Screenshot of success page image](assets/images/screenshot-of-success-page-image.png)
    
 4. As a returning visitor, I'd like to easily access and navigate the site via a mobile or tablet.
-
-   The website is responsive on mobile, as seen in the below image, which shows the drop-down navigation bar on mobiles:
-
-   ![Screenshot of mobile navigation bar](assets/images/mobile-drop-down-nav-and-button.png)
-
-   'Learn More' buttons on mobiles:
-
-   ![Screenshot of 'learn more' buttons on hompage](assets/images/learn-more-buttons-mobile.png)
-
-   Footer on mobiles:
-
-   ![Screenshot of Footer on mobiles](assets/images/screenshot-footer-mobiles.png)
-
-   Navigation bar for tablets:
-
-   ![Screenshot of navigation bar for tablets](assets/images/navigation-tablet.png)
-
-   Footer for tablets:
-
-   ![Screenshot of footer for tablets](assets/images/tablet-footer.png)
-
-   Booking form and map for tablets:
-
-   ![Screenshot of booking form and map](assets/images/booking-form-and-map-tablet.png)
    
 
 ### Site Owner Goals
@@ -351,7 +305,9 @@ Here are the steps to follow:
 
 1. "As a user, I want a user-friendly experience when navigating the website."
 
-   a. The navigation is clean and simple. There is also a further ‘Back to Home’ button at the bottom of every page, so the user doesn’t have to scroll back up. 
+   a. The navigation is clean and simple. There is also a further ‘Back to Home’ button at the bottom of every page, so the user doesn’t have to scroll back up.
+
+   - ![Picture of Footer on services and booking page](assets/images/booking-and-services-footer.png)
 
    b. The navigation is consistent across all pages and easy to understand.
 
@@ -367,58 +323,99 @@ Here are the steps to follow:
 
    a. There is a carousel at the bottom of the home page that shows customer reviews.
 
-4. “As a user, I want to experience a simple and intuitive layout that makes it easy to find the information I am looking for.”
+   - ![Screenshot of carousel with reviews](assets/images/carousel-reviews.png)
 
-   a. The subheadings are clear and distinguishable from the other content.
+3. “As a user, I want to experience a simple and intuitive layout that makes it easy to find the information I am looking for.”
 
-   b. Pictures and content are consistent, but not overwhelming.
+   a. The subheadings are clear and distinguishable from the other content, and pictures and content are consistent, but not overwhelming.
 
-   c. Headings and subheadings display an underline when hovered over.
+   - ![Screenshot of homepage](assets/images/homepage-screenshot.png)
+
+   b. Headings and subheadings display an underline when hovered over.
    
-   ![Screenshot evidence for first user story](assets/images/user-stories-image-1.png)
+   - ![Screenshot evidence for first user story](assets/images/user-stories-image-1.png)
 
-5. “As a user, I want to read engaging but simple descriptions that describe the benefits of each service.”
+4. “As a user, I want to read engaging but simple descriptions that describe the benefits of each service.”
 
    a. All the descriptions are clear and simple.
 
-   
+   - ![Screenshot of Services Page images](assets/images/screenshot-of-services-images.png)
 
-6. “As a user, I want to find the contact details easily if I have any additional questions.”
+5. “As a user, I want to find the contact details easily if I have any additional questions.”
 
    a. Throughout the website, there are links (‘Book’) to the book/contact page. This is clearly stated in the subheading.
 
    Homepage:
 
-   ![Screenshoot of 'Book Now' button on homepage](assets/images/book-now-button-hompage-1.png)
+   - ![Screenshoot of 'Book Now' button on homepage](assets/images/book-now-button-hompage-1.png)
    
-   ![Second screenshot of 'Book Now' button on homepage](assets/images/book-now-button-hompage-2.png)
+   - ![Second screenshot of 'Book Now' button on homepage](assets/images/book-now-button-hompage-2.png)
 
    Services Page:
    
-   ![Screenshot of 'Book Now' on services page](assets/images/services-page-booking-button.png)
+   - ![Screenshot of 'Book Now' on services page](assets/images/services-page-booking-button.png)
 
    b. The footer is consistent, with a message that welcomes the user to send them a message or call the company if they have questions.
 
-   ![Screenshot of footer](assets/images/footer-social-links-image.png)
+   - ![Screenshot of footer](assets/images/footer-social-links-image.png)
 
    c. On the booking / contact page, there is a clear address and interactive map, so the reader can easily find the business:
    
-   ![Picture of address and map](assets/images/picture-of-map.png)
+   - ![Picture of address and map](assets/images/picture-of-map.png)
 
-8. “As a user, I want to find the booking form easily, so that I can book the specific service I am interested in.”
+6. “As a user, I want to find the booking form easily, so that I can book the specific service I am interested in.”
 
    a. The booking form is easily found if you navigate from any of the pages.
 
+   - Booking Buttons - Homepage:
+     ![Screenshot of booking button -homepage](assets/images/booking-button-1-home.png)
+
+     ![Screenshot of booking button -homepage](assets/images/booking-button-home-2.png)
+
+   - Booking Button - Services:
+     ![Screenshot of booking button - services](assets/images/booking-button-services.png)
+
    b. Clear instructions lead the user to the booking from the other pages.
 
-9. “As a small business, I would like to easily find information that states if they can support my requirements for plenty of dogs.”
+7. “As a small business, I would like to easily find information that states if they can support my requirements for plenty of dogs.”
 
     a. The services section clearly states that the business can support plenty of dogs and meet the requirements of other businesses.
 
-10. “As a small business, I would like to see if they are qualified by professional bodies and if they have plenty of experience.”
+    - ![Services section image](assets/images/services-page-screenshot.png)
+
+8. “As a small business, I would like to see if they are qualified by professional bodies and if they have plenty of experience.”
 
     a. The homepage clearly advertises their insurance and their professional qualifications and experience:
-    ![Screenshot evidence for first user story](assets/images/user-stories-image-1.png)
+    
+    - ![Screenshot evidence for first user story](assets/images/user-stories-image-1.png)
+
+ 9. "As a returning visitor, I'd like to easily access and navigate the site via a mobile or tablet."
+
+   The website is responsive on mobile, as seen in the below image, which shows the drop-down navigation bar on mobiles:
+
+   ![Screenshot of mobile navigation bar](assets/images/mobile-drop-down-nav-and-button.png)
+
+   'Learn More' buttons on mobiles:
+
+   ![Screenshot of 'learn more' buttons on hompage](assets/images/learn-more-buttons-mobile.png)
+
+   Footer on mobiles:
+
+   ![Screenshot of Footer on mobiles](assets/images/screenshot-footer-mobiles.png)
+
+   Navigation bar for tablets:
+
+   ![Screenshot of navigation bar for tablets](assets/images/navigation-tablet.png)
+
+   Footer for tablets:
+
+   ![Screenshot of footer for tablets](assets/images/tablet-footer.png)
+
+   Booking form and map for tablets:
+
+   ![Screenshot of booking form and map](assets/images/booking-form-and-map-tablet.png)
+
+   
 
 ### HTML Validation 
 
