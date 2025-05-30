@@ -191,6 +191,8 @@ Brief points on the success.html page:
 
 ## Design
 
+While planning the design of Folkestone dogs, I explored websites of real dog care businesses to understand how they present their services, build trust, and guide users toward contact or booking. Sites like [BorrowMyDoggy](https://www.borrowmydoggy.com/) and local pet care providers offered great insights into the effective use of friendly imagery, service descriptions, and clear calls to action. This competitive research influenced the layout choices, tone of the content, and overall user experience, helping to shape a site that feels professional, approachable, and easy to navigate for prospective clients.
+
 ### Colour Scheme
 
 The palette of colours were chosen after doing a little research to find which would represent a trustworthy and friendly brand.
