@@ -70,6 +70,24 @@ The goal for the 'Folkestone Dogs' website is to show prospective clients that t
 The main users of the site will be couples who have recently adopted or purchased a new dog. They will ideally be located in the Folkestone area, but likely clients will come from the whole of Kent. 
 There is no particular age, but the majority will likely be late-20's to mid-40's, men and women. 
 
+### Strategy 
+
+#### Target Audience Content
+
+After researching the target audience, I also needed to ensure that the content I produced was culturally appropriate. When writing descriptions and selecting images, I made sure the material aligned with the interests of those seeking day care and training services for dogs.
+
+Although there isn’t a single, defined demographic that fits this criteria, it’s still important to adopt a consistent theme and brand personality. This branding would reflect the general target audience I identified in the Folkestone area: typically, a couple in their mid-thirties with one or two medium-sized dogs, who are new to dog training.
+
+This would encompass the majority of the audience. Fewer of the audience would be categorisd as businesses. Therefore, the content would also need to cater to them. Addressing the business needs is the first step, and this is acheived within the descriptions on the Service's page (catering to large quantities of dogs, opening hours, etc.). And, a general need is for the website to be intuitive, easy-to-navigate and responsive for busy professionals. 
+
+#### Business Goals
+
+After identifying my target audience, I needed to position the business as a distinctive outlier in terms of the benefits it offers. This involved researching local day care and training providers, not only in Folkestone but across the wider Kent area. I discovered that it’s uncommon for businesses to offer both 24/7 dog day care and basic training — most tend to focus on one or the other.
+
+I also noticed that many of the websites appeared cluttered and difficult to navigate. As a result, I made sure that mine would be clean, user-friendly, and easy to navigate. This would also help users who aren't considered tech-savvy, as some (fewer) of the audience fall into the older generations who grew up without technology. 
+
+This insight then helped inform the development of user stories.
+
 ### User Requirements/Expectations
 
 1. Immediately what Folkestone Dogs do in the header and subheads of the homepage.
