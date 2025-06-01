@@ -86,7 +86,15 @@ After identifying my target audience, I needed to position the business as a dis
 
 I also noticed that many of the websites appeared cluttered and difficult to navigate. As a result, I made sure that mine would be clean, user-friendly, and easy to navigate. This would also help users who aren't considered tech-savvy, as some (fewer) of the audience fall into the older generations who grew up without technology. 
 
-This insight then helped inform the development of user stories.
+### Structure
+
+A key goal when creating the website was to ensure it was well-organised and intuitive to use. To achieve this, the planning and design stages were carried out using Balsamiq, as shown later in this README.
+
+I made sure the information was presented in a clear, accessible manner—comprehensive enough to include all the essentials on the homepage, along with a sufficient number of calls to action, without overwhelming the user.
+
+The site’s structure was designed to strike a balance between linear and non-linear navigation. It isn’t strictly sequential, nor is it entirely freeform; instead, it allows users to move fluidly between pages without feeling lost or overloaded. An example of this is the 'Go Back home' button on the footer of every page (except the home page). 
+
+All the above (structure, strategy and scope) helped inform the development of user stories.
 
 ### User Requirements/Expectations
 
