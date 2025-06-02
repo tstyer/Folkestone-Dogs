@@ -475,9 +475,15 @@ No errors or warnings to show:
 
 ### CSS Validation
 
-No errors or warnings to show:
+No errors to show:
 
 ![Screenshot of CSS code](assets/images/css-validation.png)
+
+The single warning:
+
+![CSS warning](assets/images/css-warning.png)
+
+I couldn't find a way to remove this warning. 
 
 ### Lighthouse
 
