@@ -419,29 +419,29 @@ Here are the steps to follow:
 
  9. "As a returning visitor, I'd like to easily access and navigate the site via a mobile or tablet."
 
-   The website is responsive on mobile, as seen in the below image, which shows the drop-down navigation bar on mobiles:
+   a. The website is responsive on mobile, as seen in the below image, which shows the drop-down navigation bar on mobiles:
 
-   ![Screenshot of mobile navigation bar](assets/images/mobile-drop-down-nav-and-button.png)
+   - ![Screenshot of mobile navigation bar](assets/images/mobile-drop-down-nav-and-button.png)
 
-   'Learn More' buttons on mobiles:
+   b. 'Learn More' buttons on mobiles:
 
-   ![Screenshot of 'learn more' buttons on hompage](assets/images/learn-more-buttons-mobile.png)
+   - ![Screenshot of 'learn more' buttons on hompage](assets/images/learn-more-buttons-mobile.png)
 
-   Footer on mobiles:
+   c. Footer on mobiles:
 
-   ![Screenshot of Footer on mobiles](assets/images/screenshot-footer-mobiles.png)
+   - ![Screenshot of Footer on mobiles](assets/images/screenshot-footer-mobiles.png)
 
-   Navigation bar for tablets:
+   d. Navigation bar for tablets:
 
-   ![Screenshot of navigation bar for tablets](assets/images/navigation-tablet.png)
+   - ![Screenshot of navigation bar for tablets](assets/images/navigation-tablet.png)
 
-   Footer for tablets:
+   e. Footer for tablets:
 
-   ![Screenshot of footer for tablets](assets/images/tablet-footer.png)
+   - ![Screenshot of footer for tablets](assets/images/tablet-footer.png)
 
-   Booking form and map for tablets:
+   f. Booking form and map for tablets:
 
-   ![Screenshot of booking form and map](assets/images/booking-form-and-map-tablet.png)
+   - ![Screenshot of booking form and map](assets/images/booking-form-and-map-tablet.png)
 
    
 
@@ -477,7 +477,7 @@ No errors or warnings to show:
 
 No errors or warnings to show:
 
-![Screenshot of CSS code](assets/images/css-validation.jpeg)
+![Screenshot of CSS code](assets/images/css-validation.png)
 
 ### Lighthouse
 
