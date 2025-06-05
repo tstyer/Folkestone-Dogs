@@ -59,11 +59,21 @@ Welcome to the Folkestone Dogs project.
 
 This is a simple, responsive website built using HTML, CSS and Bootstrap. It serves as a foundation for the small (fictional) business, local to the Folkestone, Kent area. They specialise in daycare and training services for dogs of all breeds. The structure of the site is clean, minimal and consistent.
 
-## User Experience (UX)
+## Project Overview
+
+In the idea phase, the focus was on crafting a clean, user-friendly design that would appeal to pet owners and clearly communicate services. Key design principles included strong visual hierarchy, intuitive navigation, and a welcoming tone.
+
+During the planning phase, research was conducted into similar small business websites to identify best practices in layout, typography, and color schemes. The project was developed using HTML, CSS and Bootstrap, with Git and GitHub used for version control. The creation process involved iteratively building and refining the site layout, ensuring responsiveness across devices, and maintaining visual consistency throughout.
 
 ### Project Scope
 
 The goal for the 'Folkestone Dogs' website is to show prospective clients that they are the best option for dog daycare and training in the area. It offers this through easy navigation, understandable text, and an intuitive layout. 
+
+The site needed to include key informational sections such as an introduction to the service, booking, and contact details, all presented in a clear and visually appealing manner. The project focused on front-end development only, without backend functionality or user login systems. It was also scoped to be fully responsive, ensuring accessibility and usability on both desktop and mobile devices. The emphasis was on creating a polished, professional site that could realistically be used by a local business with minimal technical complexity.
+
+## User Experience (UX)
+
+To ensure great user experience, it's imperative to know who my target audiences are. From there, I can craft a strategy to appeal to them, stating the benefits and how Folkestone Dogs can eliminate certain problems they want to avoid. These descriptions will be displayed on text that contrasts well with the background, neatly fitting into sections that are located on the homepage. 
 
 ### Demographics
 
