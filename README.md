@@ -689,6 +689,18 @@ Code imported from Bootstrap:
 
 All colours were imported from Color Hunt. You can find a link to Color Hunt [here](https://colorhunt.co/)
 
+## Evaluation and Reflection
+
+### What Went Well
+
+The layout of the website is clean, well-structured, and mobile-friendly. The design maintained consistency across all pages, with clear visual hierarchy and intuitive navigation. The use of CSS for styling allowed for a polished appearance, and responsiveness was effectively achieved using media queries and Bootstrap. Testing confirmed that the site performed reliably across multiple browsers and screen sizes, which was a key goal from the outset.
+
+### Improvements
+
+Further improvements could include optimising image loading for performance and exploring accessibility features more deeply, such as keyboard navigation and ARIA attributes.
+
+I also think adding a separate page dedicated to booking would be better for user experience. At the moment, there is one page used for booking and contacting the business. Although this is described well, I think it could still lead to issues in the future. 
+
 ## Future Considerations
 
 Looking ahead, the website will be expanded with interactive JavaScript features to enhance user engagement. In addition, basic SEO techniques will be implemented to improve the site's visibility on search engines, making it easier for potential customers to discover the service. There's also a plan to launch a dedicated blog section featuring tips on dog care, training advice, and local pet-friendly spots, offering ongoing value to dog owners in the Folkestone area.
