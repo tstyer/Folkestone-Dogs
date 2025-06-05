@@ -664,6 +664,10 @@ All colours were imported from Color Hunt. You can find a link to Color Hunt [he
 
 Looking ahead, the website will be expanded with interactive JavaScript features to enhance user engagement. In addition, basic SEO techniques will be implemented to improve the site's visibility on search engines, making it easier for potential customers to discover the service. There's also a plan to launch a dedicated blog section featuring tips on dog care, training advice, and local pet-friendly spots, offering ongoing value to dog owners in the Folkestone area.
 
+### Implementing a 404 page
+
+In the future, I will also create a 404 page in brand tone and consistent with navigation. There will be a friendly message, image and easy-to-find buttons to go back home or to another page. 
+
 ## Conclusion
 
 This project was a steep learning curve, and I thoroughly enjoyed the process. It also helped me understand my passion for front-end development, and is what I will pursue moving forward. 
