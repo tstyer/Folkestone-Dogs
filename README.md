@@ -572,11 +572,11 @@ All elements, including images, navigation, and text, were checked to ensure the
 
 Cross-browser compatibility was a key consideration throughout development. The website was tested on the latest versions of the following browsers:
 
-Google Chrome
+- Google Chrome
 
-Mozilla Firefox
+- Mozilla Firefox
 
-Microsoft Edge
+- Microsoft Edge
 
 Internet Explorer 11 (basic layout supported; minor styling differences expected)
 
