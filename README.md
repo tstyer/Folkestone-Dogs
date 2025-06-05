@@ -542,26 +542,45 @@ These user tests confirm the website is fully functional and user-friendly, prov
 
 ### Responsiveness
 
-The website was tested on Microsoft Edge, Chrome, Firefox and Internet Explorer across different sizes for responsiveness.
+The website was designed with a mobile-first approach and thoroughly tested across a range of screen sizes to ensure a consistent user experience. Media queries were used to adjust the layout and content display for optimal readability and functionality on smaller screens. The following devices and breakpoints were used during testing:
 
-Mobiles: 
+Mobile Devices (max-width: 320px – 480px):
 
-- Mobiles: 320px (Max)
 - iPhone SE
 
-Tablets:
+- Android emulators
+
+- Chrome Developer Tools – mobile preview
+
+Tablets (768px – 1024px):
 
 - iPad Air
+
 - iPad Pro
 
-Desktops:
+- Simulated using browser developer tools and physical devices
 
-- Laptop (1024px's +)
-- Desktop (1440px's +)
+Desktops & Laptops (1024px and above):
 
-### Browser Compatability
+- Standard laptop (1366x768)
 
-The website was tested on Microsoft Edge, Chrome, Internet Explorer, and Firefox and works as expected. 
+- Desktop monitor (1440px and 1920px widths)
+
+All elements, including images, navigation, and text, were checked to ensure they scaled correctly and remained user-friendly across these resolutions.
+
+### Browser Compatibility
+
+Cross-browser compatibility was a key consideration throughout development. The website was tested on the latest versions of the following browsers:
+
+Google Chrome
+
+Mozilla Firefox
+
+Microsoft Edge
+
+Internet Explorer 11 (basic layout supported; minor styling differences expected)
+
+The site behaves as intended across all tested browsers, with consistent layout, navigation, and visual presentation. While Internet Explorer displayed minor styling inconsistencies due to limited CSS support, all essential content remained accessible and easy to read. 
 
 ## Bugs
 
