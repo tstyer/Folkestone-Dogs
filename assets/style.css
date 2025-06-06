@@ -3,7 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Delius&family=Noto+Sans+Display:ital,wght@0,404;1,404&family=Outfit:wght@100..900&display=swap');
 
 
-
 /* Global Styles */
 
 
@@ -97,10 +96,8 @@ i {
 }
 
 
-
-
-
 /* Navigation */
+
 
 nav > a { /* Only the direct descendent - the 'Folkestone Dogs' logo has this padding */
     padding-left: 8px;
@@ -116,9 +113,11 @@ nav a:hover {
     color: white !important;
 }
 
+
 .navbar-nav a {
     padding-left: 10px;
 }
+
 
 .navbar-toggler {
     padding-left: 5px;
@@ -126,36 +125,39 @@ nav a:hover {
 }
 
 
-
 /* Hero's */
+
 
 .hero-booking {
     background-image: url("../assets/images/booking-header-medium.jpg");
 }
 
+
 .hero-services {
     background-image: url("../assets/images/services-header-medium.jpg");
 }
+
 
 .hero-home {
     background-image: url("../assets/images/header-home-medium.jpg");
 }
 
 
-
 /* Paragrpah Links */
+
 
 p a {
     transition: color 0.4s ease;
 }
+
 
 p a:hover {
     color: #A294F9; /* Changes links in P's to white when hovered over. */
 }
 
 
-
 /* Learn More button */
+
 
 .learn-more-button {
     color: black;
@@ -165,8 +167,8 @@ p a:hover {
 }
 
 
-
 /* Copyright */
+
 
 .copyright p {
     font-size: smaller;
@@ -174,8 +176,8 @@ p a:hover {
 }
 
 
-
 /* Booking Page */
+
 
 .booking-form {
     background-color: #F5EFFF;
@@ -193,16 +195,16 @@ form .btn {
 }
 
 
-
 /* Services Page */
+
 
 .paragraph-custom {
     padding: 0 20px 10px;
 }
 
 
-
 /* h2 custom */
+
 
 .custom-h2 {
     font-family: 'Outfit', sans-serif;
@@ -211,6 +213,7 @@ form .btn {
     margin-bottom: 10px;
     padding: 0px 30px;
 }
+
 
 .home-h2 {
     font-family: 'Outfit', sans-serif;
@@ -221,13 +224,14 @@ form .btn {
 }
 
 
-
 /* Success page */
+
 
 .success-spacing {
     padding-top: 100px;
     padding-bottom: 20px;
 }
+
 
 .success-image img {
     height: 400px;
@@ -237,24 +241,22 @@ form .btn {
 }
 
 
-
-
-
 /* Container heights */
+
 
 #extra-mile {
     min-height: 300px;
 }
 
+
 #services-day-care {
     min-height: 350px;
 }
 
+
 #services-training {
     min-height: 335px;
 }
-
-
 
 
 /* 'What we do' container - displayed Via flex to keep the images at equal height all the time */
@@ -267,6 +269,7 @@ form .btn {
     align-items: flex-start;
 }
 
+
 .service {
     display: flex;
     flex-direction: column;
@@ -274,9 +277,11 @@ form .btn {
     height: 100%;
 }
 
+
 .service p {
     flex-grow: 1;
 }
+
 
 .service img {
     margin-top: auto;
@@ -285,23 +290,20 @@ form .btn {
 }
 
 
-
-
 /* 'we go the extra mile' paragraph sections */
+
 
 .extra-space {
     padding: 8px;
 }
 
 
-
 /* Book button on services page */
+
 
 .book-button {
     padding-bottom: 15px;
 }
-
-
 
 
 /* images */
@@ -314,6 +316,7 @@ form .btn {
     padding-bottom: 12px;
 }
 
+
 .centre-items {
     display: flex;
     align-items: center;
@@ -324,12 +327,14 @@ form .btn {
 
 /* Carousel - home */
 
+
 .carousel img {
     visibility: hidden;
     max-height: 100px !important;
     max-width: 400px;
 
 }
+
 
 .carousel p {
     font-family: 'Outfit', serif;
@@ -338,41 +343,47 @@ form .btn {
 }
 
 
-
 /* Map */
+
 
 .map-style {
     display: inline-block;
 }
+
 
 .map-style iframe {
     width: 100%;
     padding: 10px;
 }
 
+
 .map p {
     text-align: center;
 }
 
 
-
 /* Footer */
+
 
 footer p {
     text-align: center;
 }
 
+
 .got-questions {
     padding-top: 5px;
 }
+
 
 .social-links {
     padding-top: 5px;
 }
 
+
 .social-links i {
     padding-top: 10px;
 }
+
 
 .back-home {
     padding-top: 5px;
@@ -380,22 +391,22 @@ footer p {
     justify-content: center;
 }
 
+
 footer a {
     transition: color 0.4s ease !important;
 }
+
 
 footer a:hover {
     color: white;
 }
 
 
-
-
 /* media queires */
 
 
-
 /* 1. Subheading - home */
+
 
 @media screen and (min-width: 992px) {
     h2 {
@@ -403,7 +414,9 @@ footer a:hover {
     }
 }
 
+
 /* 2. Header Image */
+
 
 @media screen and (max-width: 400px) {
     .hero-home {
@@ -411,7 +424,9 @@ footer a:hover {
     }
 }
 
+
 /* 3. Follow Our Socials padding top for smaller screens */
+
 
 @media screen and (max-width: 425px) {
     .social-links {
@@ -419,7 +434,9 @@ footer a:hover {
     }
 }
 
+
 /* 4. Carousel - allows the text to be seen for mobiles */
+
 
 @media screen and (min-width: 320px) {
     .d-md-block {
@@ -428,7 +445,9 @@ footer a:hover {
     }
 }
 
+
 /* 5. Navigation bar */
+
 
 @media screen and (min-width: 576px) {
     .navbar-nav {
