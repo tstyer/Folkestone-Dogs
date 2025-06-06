@@ -469,7 +469,7 @@ No errors or warnings to show:
 
 No errors or warnings to show:
 
-![Screenshot of booking page code](assets/images/screnshot-of-booking.html-validator.jpeg)
+![Screenshot of booking page code](assets/images/screenshot-of-booking.html-validator.jpeg)
 
 #### services.html
 
