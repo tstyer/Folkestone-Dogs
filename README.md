@@ -520,7 +520,13 @@ See the latest results, below:
 
 ![Booking Page](assets/images/booking.html-lighthouse.png)
 
+The below image is a screenshot of the best result I could achieve for the homepage. This is after image optimisation and speaking with tutors. 
+
+![Screenshot of index.html](assets/images/lighthouse-after-img-optimisation.png)
+
 ### Manual Testing
+
+I carried out manual testing. The tasks below are any possible actions a user of the site would take, so I had to ensure they passed. 
 
 | Feature                | Expected Outcome                                                  | Testing Performed                                   | Result                                                                 | Pass/Fail |
 |------------------------|-------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------------------|-----------|
