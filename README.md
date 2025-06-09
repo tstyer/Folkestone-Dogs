@@ -709,11 +709,11 @@ In the future, I will also create a 404 page in brand tone and consistent with n
 
 ## Conclusion
 
-This project was a steep learning curve, and I thoroughly enjoyed the process. It also helped me understand my passion for front-end development, and is what I will pursue moving forward. 
+This project was a steep learning curve, but an incredibly rewarding experience. It reaffirmed my passion for front-end development, which I am now committed to pursuing further.
 
-I have learned about areas of improvement, and will implement changes to this website as I progress. 
+Throughout the process, I identified several areas for improvement, and I intend to continue refining and enhancing this website as my skills develop.
 
-Help from tutors, and my mentor was second-to-none, and this makes me feel confident going into the next projects. 
+The support I received from tutors and my mentor was exceptional, and it has given me the confidence to approach future projects with greater assurance and enthusiasm.
 
 
 
