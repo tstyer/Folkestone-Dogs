@@ -524,6 +524,8 @@ The below image is a screenshot of the best result I could achieve for the homep
 
 ![Screenshot of index.html](assets/images/lighthouse-after-img-optimisation.png)
 
+To compress the sizes of all the image files, I used [The Best PDF website](https://thebestpdf.com/compress-images).
+
 ### Manual Testing
 
 I carried out manual testing. The tasks below are any possible actions a user of the site would take, so I had to ensure they passed. 
