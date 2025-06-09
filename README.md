@@ -299,12 +299,19 @@ The goal is to use it as a template to improve my front-end ability.
 I kept the structure simple and intuitive. You can find all the assets (CSS and images) grouped into one folder - the 'assets' folder:
 
 ├── assets/
+
 │ ├── images/ # Folder for image assets
+
 │ └── style.css # Main stylesheet
+
 ├── booking.html # Booking form page
+
 ├── index.html # Home page
+
 ├── services.html # Services information page
+
 ├── success.html # Booking confirmation page
+
 ├── README.md # Project documentation
 
 ## Deployment 
