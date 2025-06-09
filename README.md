@@ -314,6 +314,8 @@ I kept the structure simple and intuitive. You can find all the assets (CSS and 
 
 ├── README.md # Project documentation
 
+![Screenshot of folder structure](assets/images/screenshot-of-folder-structure.png)
+
 ## Deployment 
 
 ### Deplying to Github Pages
