@@ -2,7 +2,7 @@
  
 See the live version of Folkestone Dogs, here: [Folkestone Dogs Deployed site](https://tstyer.github.io/Folkestone-Dogs/)
 
-![Header for Folkestone Dogs website](assets/images/home-page-header-as-readme-header.png)
+![Header for Folkestone Dogs website](assets/images/mock-up-image-for-readme.png)
 
 ## Table of Contents
 
