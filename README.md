@@ -484,23 +484,23 @@ See the latest results, below:
 
 #### index.html
 
-![Home Page results](assets/images/index.html-lighthouse.png)
+- ![Home Page results](assets/images/index.html-lighthouse.png)
 
 #### success.html
 
-![Success Page](assets/images/success.html-lighthouse.png)
+- ![Success Page](assets/images/success.html-lighthouse.png)
 
 #### services.html
 
-![Services Page](assets/images/services.html-lighthouse.png)
+- ![Services Page](assets/images/services.html-lighthouse.png)
 
 #### booking.html
 
-![Booking Page](assets/images/booking.html-lighthouse.png)
+- ![Booking Page](assets/images/booking.html-lighthouse.png)
 
 The below image is a screenshot of the best result I could achieve for the homepage. This is after image optimisation and speaking with tutors. 
 
-![Screenshot of index.html](assets/images/lighthouse-after-img-optimisation.png)
+- ![Screenshot of index.html](assets/images/lighthouse-after-img-optimisation.png)
 
 To compress the sizes of all the image files, I used [The Best PDF website](https://thebestpdf.com/compress-images).
 
