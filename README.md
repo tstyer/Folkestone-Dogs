@@ -267,22 +267,6 @@ The goal is to use it as a template to improve my front-end ability.
 
 I kept the structure simple and intuitive. You can find all the assets (CSS and images) grouped into one folder - the 'assets' folder:
 
-├── assets/
-
-│ ├── images/ # Folder for image assets
-
-│ └── style.css # Main stylesheet
-
-├── booking.html # Booking form page
-
-├── index.html # Home page
-
-├── services.html # Services information page
-
-├── success.html # Booking confirmation page
-
-├── README.md # Project documentation
-
 ![Screenshot of folder structure](assets/images/screenshot-of-folder-structure.png)
 
 ## Deployment 
@@ -453,35 +437,35 @@ The HTML of all the pages was validated through the [W3C Validator](https://vali
 
 No errors or warnings to show:
 
-![Screenshot of index.html with no errors](assets/images/screenshot-of-validated-index.html.png)
+- ![Screenshot of index.html with no errors](assets/images/screenshot-of-validated-index.html.png)
 
 #### booking.html 
 
 No errors or warnings to show:
 
-![Screenshot of booking page code](assets/images/screenshot-of-booking.html-validator.jpeg)
+- ![Screenshot of booking page code](assets/images/screenshot-of-booking.html-validator.jpeg)
 
 #### services.html
 
 No errors or warnings to show:
 
-![Screenshot of services.html code](assets/images/screenshot-of-services.html-code.jpeg)
+- ![Screenshot of services.html code](assets/images/screenshot-of-services.html-code.jpeg)
 
 #### success.html 
 
 No errors or warnings to show:
 
-![Screenshot of success.html code](assets/images/screenshot-of-success.html-code.jpeg)
+- ![Screenshot of success.html code](assets/images/screenshot-of-success.html-code.jpeg)
 
 ### CSS Validation
 
 No errors to show:
 
-![Screenshot of CSS code](assets/images/css-validation.png)
+- ![Screenshot of CSS code](assets/images/css-validation.png)
 
 The single warning:
 
-![CSS warning](assets/images/css-warning.png)
+- ![CSS warning](assets/images/css-warning.png)
 
 I couldn't find a way to remove this warning. 
 
