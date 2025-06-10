@@ -639,7 +639,7 @@ A list of all the resources that were outsourced will be displayed here.
 - ‘Services header 2’, by Lilun. Found [here](https://www.shutterstock.com/image-photo/cat-dog-group-dogs-kitten-looking-195226160).
 - ‘Services header image’, by Lilun. Found [here](https://www.dreamstime.com/stock-photo-group-dogs-cats-white-background-standing-looking-up-image88483363).
 - ‘Success page image’, by Cammeraydave. Found [here](https://www.dreamstime.com/royalty-free-stock-images-dogs-dog-park-training-image4492729).
-- The mock-up image displayed at the top of the ReadMe was created in [Canva](www.canva.com).
+- The mock-up image displayed at the top of the ReadMe was created in [Canva](https://www.canva.com/).
 
 #### Icons
 
