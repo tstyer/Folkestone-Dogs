@@ -237,6 +237,8 @@ The goal is to use it as a template to improve my front-end ability.
 
 ## Technologies Used
 
+This project leverages the use of modern tools and libraries to ensure efficiency, scalability, and maintainability. Below is a list of the core technologies I used to develop the website.
+
 ### Development Tools
 
 - HTML5: For the mark-up language. 
@@ -262,6 +264,8 @@ The goal is to use it as a template to improve my front-end ability.
 - W3C: Used to scan the HTML and CSS code for validation. 
 
 - Google Chrome Lighthouse: For accessibility, SEO, responsiveness and best practices.
+  
+- Canva was used to create the mock-up image displayed at the top of the ReadMe. 
 
 ## Folder Structure
 
@@ -626,8 +630,8 @@ A list of all the resources that were outsourced will be displayed here.
 
 #### Images
 
-- Dogs running in a park, by aglphotoproductions. Found at [here](https://www.dreamstime.com/royalty-free-stock-photos-little-dogs-park-image25207288).  
-- Trainer with dogs, by Filipp o Romeo. Found [here](https://www.dreamstime.com/royalty-free-stock-images-dog-trainer-teaching-dogs-group-listen-to-commands-image32812229). 
+- 'Dogs running in a park', by aglphotoproductions. Found at [here](https://www.dreamstime.com/royalty-free-stock-photos-little-dogs-park-image25207288).  
+- 'Trainer with dogs', by Filipp o Romeo. Found [here](https://www.dreamstime.com/royalty-free-stock-images-dog-trainer-teaching-dogs-group-listen-to-commands-image32812229). 
 - ‘Booking image header’, by Lilun. Found [here](https://www.dreamstime.com/stock-photo-group-dogs-white-background-standing-looking-up-image88483504). 
 - ‘All types of dogs’, by Lilun. Found [here](https://www.dreamstime.com/stock-photo-group-dogs-cats-white-background-standing-looking-up-image88483363). 
 - ‘Dogs running’, by Lunja87. Found [here](https://www.dreamstime.com/stock-photo-group-dogs-playing-park-image69809088).
@@ -635,6 +639,7 @@ A list of all the resources that were outsourced will be displayed here.
 - ‘Services header 2’, by Lilun. Found [here](https://www.shutterstock.com/image-photo/cat-dog-group-dogs-kitten-looking-195226160).
 - ‘Services header image’, by Lilun. Found [here](https://www.dreamstime.com/stock-photo-group-dogs-cats-white-background-standing-looking-up-image88483363).
 - ‘Success page image’, by Cammeraydave. Found [here](https://www.dreamstime.com/royalty-free-stock-images-dogs-dog-park-training-image4492729).
+- The mock-up image displayed at the top of the ReadMe was created in [Canva](www.canva.com).
 
 #### Icons
 
